@@ -1,0 +1,1501 @@
+Year,Season,City,Sport,Event,Athlete,Gender,Country,Medal,Age
+2008,Summer,London,Badminton,Event_4,Caeleb Dressel,Male,Jamaica,Silver,20
+2020,Summer,Rio,Gymnastics,Event_20,Sushil Kumar,Female,USA,Gold,24
+2020,Summer,Rio,Swimming,Event_8,Mary Kom,Female,Australia,Gold,35
+2020,Summer,London,Swimming,Event_10,Yuzuru Hanyu,Female,Australia,Gold,32
+2008,Summer,Tokyo,Wrestling,Event_11,Caeleb Dressel,Female,Jamaica,Silver,22
+2012,Summer,London,Badminton,Event_10,Yuzuru Hanyu,Male,China,Bronze,21
+2008,Summer,London,Swimming,Event_13,P V Sindhu,Female,China,Silver,26
+2020,Summer,Beijing,Gymnastics,Event_15,Simone Biles,Female,India,Gold,30
+2016,Summer,Beijing,Wrestling,Event_7,Simone Biles,Male,Jamaica,Bronze,23
+2008,Summer,Rio,Gymnastics,Event_11,Caeleb Dressel,Female,Japan,Gold,20
+2008,Summer,London,Boxing,Event_16,Mary Kom,Male,China,Silver,25
+2008,Summer,London,Wrestling,Event_1,Sushil Kumar,Male,India,Bronze,28
+2012,Summer,Beijing,Badminton,Event_6,Usain Bolt,Female,China,Silver,28
+2008,Summer,Tokyo,Swimming,Event_11,Caeleb Dressel,Female,Australia,Gold,27
+2012,Summer,Tokyo,Boxing,Event_3,Sushil Kumar,Male,Jamaica,Gold,26
+2016,Summer,London,Gymnastics,Event_16,Mirabai Chanu,Male,USA,Gold,26
+2008,Summer,Tokyo,Gymnastics,Event_2,Caeleb Dressel,Male,China,Gold,35
+2008,Summer,Tokyo,Boxing,Event_7,Mary Kom,Female,Japan,Gold,24
+2012,Summer,Rio,Wrestling,Event_1,Sushil Kumar,Male,Jamaica,Gold,22
+2020,Summer,Beijing,Athletics,Event_13,Caeleb Dressel,Female,India,Bronze,19
+2020,Summer,Beijing,Badminton,Event_16,Usain Bolt,Male,China,Silver,30
+2012,Summer,Rio,Boxing,Event_15,P V Sindhu,Female,Jamaica,Gold,21
+2016,Summer,Tokyo,Badminton,Event_16,Neeraj Chopra,Male,Australia,Silver,27
+2020,Summer,Tokyo,Swimming,Event_10,Sushil Kumar,Male,China,Gold,30
+2012,Summer,Rio,Wrestling,Event_12,Yuzuru Hanyu,Female,UK,Bronze,25
+2020,Summer,London,Athletics,Event_20,Simone Biles,Female,UK,Bronze,34
+2016,Summer,Tokyo,Wrestling,Event_7,Michael Phelps,Male,Australia,Silver,35
+2012,Summer,London,Boxing,Event_15,Wayde van Niekerk,Male,UK,Gold,30
+2016,Summer,Rio,Boxing,Event_7,Serena Williams,Male,Australia,Gold,27
+2012,Summer,London,Badminton,Event_1,Mary Kom,Male,Japan,Gold,19
+2016,Summer,Tokyo,Athletics,Event_13,Wayde van Niekerk,Female,UK,Gold,27
+2016,Summer,Tokyo,Athletics,Event_16,Mary Kom,Female,USA,Gold,18
+2008,Summer,Rio,Wrestling,Event_14,Wayde van Niekerk,Female,Jamaica,Silver,26
+2016,Summer,Beijing,Athletics,Event_8,Simone Biles,Female,China,Gold,27
+2008,Summer,Rio,Badminton,Event_5,Neeraj Chopra,Male,Japan,Bronze,34
+2016,Summer,Tokyo,Gymnastics,Event_4,Michael Phelps,Female,Australia,Silver,30
+2012,Summer,Rio,Boxing,Event_12,Serena Williams,Male,India,Gold,28
+2012,Summer,Tokyo,Swimming,Event_1,Mary Kom,Male,Australia,Silver,19
+2016,Summer,Rio,Swimming,Event_4,Yuzuru Hanyu,Male,India,Gold,31
+2020,Summer,Rio,Swimming,Event_15,Michael Phelps,Female,USA,Gold,33
+2012,Summer,Rio,Athletics,Event_17,Caeleb Dressel,Female,China,Silver,31
+2020,Summer,Rio,Wrestling,Event_2,Usain Bolt,Female,Australia,Silver,33
+2012,Summer,Beijing,Badminton,Event_6,Usain Bolt,Male,UK,Silver,29
+2008,Summer,Tokyo,Gymnastics,Event_20,Yuzuru Hanyu,Male,Jamaica,Silver,21
+2008,Summer,Beijing,Gymnastics,Event_6,Sushil Kumar,Male,Jamaica,Silver,28
+2016,Summer,London,Badminton,Event_5,Mary Kom,Male,UK,Bronze,25
+2020,Summer,Beijing,Swimming,Event_10,Neeraj Chopra,Male,USA,Gold,34
+2008,Summer,London,Badminton,Event_19,Caeleb Dressel,Female,USA,Silver,20
+2020,Summer,Tokyo,Gymnastics,Event_4,Simone Biles,Female,USA,Silver,35
+2008,Summer,Beijing,Athletics,Event_3,Mary Kom,Male,India,Bronze,25
+2020,Summer,London,Badminton,Event_17,Yuzuru Hanyu,Female,China,Gold,28
+2020,Summer,Rio,Gymnastics,Event_11,Simone Biles,Male,Jamaica,Gold,24
+2008,Summer,Beijing,Swimming,Event_11,Mary Kom,Male,USA,Silver,32
+2020,Summer,London,Swimming,Event_11,Wayde van Niekerk,Female,Australia,Bronze,27
+2020,Summer,London,Gymnastics,Event_3,P V Sindhu,Male,Australia,Silver,20
+2020,Summer,Tokyo,Swimming,Event_8,Caeleb Dressel,Female,Australia,Gold,29
+2016,Summer,London,Wrestling,Event_7,Sushil Kumar,Male,Jamaica,Gold,35
+2008,Summer,London,Boxing,Event_15,Serena Williams,Male,USA,Silver,24
+2012,Summer,Beijing,Swimming,Event_20,Mary Kom,Female,Jamaica,Bronze,35
+2020,Summer,Tokyo,Boxing,Event_13,Simone Biles,Male,UK,Bronze,26
+2008,Summer,London,Gymnastics,Event_1,Wayde van Niekerk,Female,Japan,Gold,25
+2020,Summer,Rio,Athletics,Event_13,Caeleb Dressel,Male,USA,Bronze,23
+2012,Summer,Tokyo,Badminton,Event_7,Caeleb Dressel,Female,India,Bronze,26
+2020,Summer,Tokyo,Gymnastics,Event_20,Michael Phelps,Male,USA,Bronze,25
+2016,Summer,Rio,Gymnastics,Event_1,Michael Phelps,Male,Jamaica,Gold,33
+2016,Summer,London,Badminton,Event_3,Usain Bolt,Male,Australia,Silver,34
+2020,Summer,Rio,Badminton,Event_5,Sushil Kumar,Male,India,Silver,32
+2016,Summer,Beijing,Boxing,Event_18,Serena Williams,Female,Japan,Bronze,35
+2020,Summer,Beijing,Badminton,Event_17,Simone Biles,Female,USA,Gold,22
+2016,Summer,Rio,Badminton,Event_7,P V Sindhu,Female,Jamaica,Gold,33
+2016,Summer,Beijing,Athletics,Event_20,Caeleb Dressel,Male,Japan,Silver,31
+2012,Summer,London,Swimming,Event_1,Neeraj Chopra,Female,Jamaica,Bronze,35
+2020,Summer,London,Wrestling,Event_7,Usain Bolt,Male,China,Silver,19
+2020,Summer,London,Gymnastics,Event_7,Neeraj Chopra,Female,UK,Silver,34
+2012,Summer,London,Swimming,Event_6,Michael Phelps,Male,China,Bronze,18
+2016,Summer,Rio,Gymnastics,Event_8,P V Sindhu,Female,India,Gold,18
+2020,Summer,Beijing,Badminton,Event_11,Usain Bolt,Female,Japan,Gold,35
+2012,Summer,Tokyo,Athletics,Event_4,Neeraj Chopra,Male,China,Bronze,21
+2012,Summer,Rio,Swimming,Event_10,Caeleb Dressel,Male,Japan,Silver,31
+2012,Summer,Tokyo,Swimming,Event_1,Serena Williams,Female,China,Gold,19
+2016,Summer,Tokyo,Badminton,Event_19,Simone Biles,Male,UK,Gold,27
+2008,Summer,Beijing,Swimming,Event_8,Sushil Kumar,Female,Japan,Bronze,26
+2016,Summer,Beijing,Gymnastics,Event_5,P V Sindhu,Male,China,Silver,32
+2020,Summer,Tokyo,Athletics,Event_17,Usain Bolt,Male,Japan,Gold,25
+2008,Summer,Rio,Badminton,Event_18,Yuzuru Hanyu,Male,Japan,Gold,27
+2012,Summer,Rio,Swimming,Event_18,Yuzuru Hanyu,Female,Japan,Gold,27
+2008,Summer,Rio,Wrestling,Event_2,Mirabai Chanu,Male,USA,Silver,27
+2016,Summer,Tokyo,Wrestling,Event_9,Mirabai Chanu,Female,Japan,Bronze,19
+2020,Summer,Rio,Wrestling,Event_5,Wayde van Niekerk,Female,Jamaica,Silver,21
+2016,Summer,Beijing,Athletics,Event_11,Sushil Kumar,Male,Australia,Silver,35
+2020,Summer,Rio,Gymnastics,Event_3,Mary Kom,Male,Australia,Silver,30
+2008,Summer,Rio,Wrestling,Event_19,Michael Phelps,Female,UK,Silver,28
+2020,Summer,Tokyo,Swimming,Event_13,Sushil Kumar,Female,India,Gold,20
+2016,Summer,London,Badminton,Event_7,Mirabai Chanu,Female,Australia,Silver,20
+2020,Summer,Rio,Badminton,Event_12,Michael Phelps,Female,UK,Bronze,26
+2012,Summer,Beijing,Swimming,Event_6,Serena Williams,Male,China,Gold,25
+2016,Summer,Tokyo,Badminton,Event_19,Yuzuru Hanyu,Female,China,Gold,19
+2016,Summer,London,Badminton,Event_9,Yuzuru Hanyu,Female,UK,Gold,24
+2016,Summer,London,Athletics,Event_19,Yuzuru Hanyu,Female,USA,Silver,19
+2012,Summer,Beijing,Swimming,Event_11,Mary Kom,Female,UK,Silver,25
+2016,Summer,London,Gymnastics,Event_4,Michael Phelps,Female,Jamaica,Silver,26
+2016,Summer,London,Wrestling,Event_16,Wayde van Niekerk,Male,Jamaica,Silver,18
+2012,Summer,Beijing,Boxing,Event_4,Wayde van Niekerk,Male,Jamaica,Bronze,23
+2012,Summer,Rio,Gymnastics,Event_18,Neeraj Chopra,Male,India,Bronze,19
+2020,Summer,Rio,Gymnastics,Event_2,Yuzuru Hanyu,Male,Jamaica,Silver,27
+2020,Summer,Tokyo,Wrestling,Event_11,Caeleb Dressel,Female,Jamaica,Silver,29
+2016,Summer,Tokyo,Boxing,Event_14,Yuzuru Hanyu,Male,Japan,Silver,35
+2012,Summer,Rio,Athletics,Event_4,Wayde van Niekerk,Male,UK,Silver,24
+2012,Summer,Beijing,Boxing,Event_1,Caeleb Dressel,Male,China,Silver,27
+2020,Summer,London,Swimming,Event_9,P V Sindhu,Male,India,Bronze,34
+2012,Summer,London,Swimming,Event_3,Neeraj Chopra,Female,Australia,Gold,32
+2020,Summer,Beijing,Swimming,Event_7,Simone Biles,Female,Jamaica,Gold,35
+2008,Summer,Rio,Wrestling,Event_9,Sushil Kumar,Female,USA,Bronze,28
+2012,Summer,Beijing,Boxing,Event_6,Michael Phelps,Female,Japan,Gold,20
+2020,Summer,Rio,Gymnastics,Event_6,Mary Kom,Female,Jamaica,Gold,24
+2012,Summer,Beijing,Gymnastics,Event_13,P V Sindhu,Female,China,Bronze,35
+2020,Summer,London,Gymnastics,Event_18,Neeraj Chopra,Male,Jamaica,Silver,22
+2012,Summer,Rio,Athletics,Event_14,Michael Phelps,Male,UK,Gold,22
+2020,Summer,Tokyo,Gymnastics,Event_5,Simone Biles,Male,China,Gold,18
+2008,Summer,London,Wrestling,Event_2,P V Sindhu,Male,India,Gold,27
+2012,Summer,Rio,Boxing,Event_4,Mirabai Chanu,Female,UK,Bronze,35
+2016,Summer,Beijing,Gymnastics,Event_10,Wayde van Niekerk,Female,Japan,Silver,33
+2012,Summer,Beijing,Wrestling,Event_3,Sushil Kumar,Female,UK,Silver,35
+2012,Summer,Beijing,Boxing,Event_19,Mary Kom,Female,Jamaica,Silver,35
+2020,Summer,London,Badminton,Event_6,Serena Williams,Male,India,Gold,18
+2020,Summer,Beijing,Athletics,Event_8,Simone Biles,Male,China,Silver,19
+2008,Summer,Beijing,Athletics,Event_6,Mirabai Chanu,Female,USA,Gold,25
+2012,Summer,Tokyo,Wrestling,Event_19,Mirabai Chanu,Female,Japan,Gold,20
+2016,Summer,London,Badminton,Event_8,Michael Phelps,Female,Australia,Gold,33
+2016,Summer,Beijing,Swimming,Event_18,Wayde van Niekerk,Female,Jamaica,Silver,23
+2020,Summer,Rio,Wrestling,Event_7,Usain Bolt,Female,Australia,Gold,22
+2016,Summer,Rio,Athletics,Event_9,Usain Bolt,Male,Jamaica,Silver,21
+2012,Summer,Rio,Swimming,Event_15,Michael Phelps,Female,China,Bronze,27
+2012,Summer,Tokyo,Gymnastics,Event_7,Sushil Kumar,Female,Japan,Silver,21
+2016,Summer,Beijing,Swimming,Event_14,Sushil Kumar,Male,Japan,Silver,30
+2016,Summer,Beijing,Athletics,Event_8,Caeleb Dressel,Female,India,Bronze,18
+2008,Summer,Tokyo,Badminton,Event_17,Yuzuru Hanyu,Male,UK,Silver,29
+2020,Summer,Tokyo,Athletics,Event_19,Simone Biles,Male,USA,Gold,24
+2020,Summer,Rio,Athletics,Event_4,P V Sindhu,Female,Japan,Silver,20
+2020,Summer,Rio,Swimming,Event_14,Mirabai Chanu,Male,UK,Bronze,31
+2020,Summer,Beijing,Wrestling,Event_20,Serena Williams,Male,USA,Gold,30
+2012,Summer,Tokyo,Athletics,Event_14,Mary Kom,Male,USA,Silver,33
+2016,Summer,London,Wrestling,Event_14,Sushil Kumar,Male,UK,Gold,33
+2012,Summer,London,Gymnastics,Event_13,Yuzuru Hanyu,Male,Jamaica,Gold,34
+2020,Summer,Tokyo,Gymnastics,Event_7,Yuzuru Hanyu,Female,India,Gold,26
+2012,Summer,Beijing,Swimming,Event_5,Michael Phelps,Female,Jamaica,Bronze,29
+2012,Summer,Tokyo,Swimming,Event_6,Wayde van Niekerk,Male,Australia,Gold,35
+2008,Summer,Beijing,Wrestling,Event_13,Sushil Kumar,Female,Japan,Gold,21
+2016,Summer,London,Boxing,Event_4,Neeraj Chopra,Female,India,Silver,21
+2020,Summer,Rio,Gymnastics,Event_1,Neeraj Chopra,Male,Australia,Bronze,27
+2008,Summer,London,Badminton,Event_18,Simone Biles,Male,USA,Silver,20
+2008,Summer,London,Athletics,Event_20,Serena Williams,Female,USA,Bronze,35
+2020,Summer,Rio,Athletics,Event_4,Usain Bolt,Female,UK,Bronze,33
+2020,Summer,Beijing,Badminton,Event_8,Caeleb Dressel,Male,Australia,Gold,32
+2020,Summer,London,Boxing,Event_6,Simone Biles,Male,Australia,Silver,24
+2016,Summer,Rio,Swimming,Event_2,Neeraj Chopra,Female,Jamaica,Silver,35
+2012,Summer,London,Boxing,Event_6,Michael Phelps,Male,India,Silver,26
+2020,Summer,London,Badminton,Event_2,P V Sindhu,Female,India,Bronze,19
+2016,Summer,Tokyo,Gymnastics,Event_14,Mirabai Chanu,Male,Australia,Gold,34
+2020,Summer,Tokyo,Badminton,Event_13,Simone Biles,Female,USA,Silver,25
+2008,Summer,London,Boxing,Event_14,Yuzuru Hanyu,Male,Japan,Bronze,29
+2008,Summer,Tokyo,Athletics,Event_12,Mirabai Chanu,Female,Japan,Gold,28
+2012,Summer,Beijing,Gymnastics,Event_20,Michael Phelps,Female,Jamaica,Silver,21
+2020,Summer,London,Wrestling,Event_11,Sushil Kumar,Female,USA,Bronze,27
+2012,Summer,Rio,Gymnastics,Event_15,Yuzuru Hanyu,Male,USA,Bronze,33
+2016,Summer,Rio,Athletics,Event_1,P V Sindhu,Male,USA,Gold,22
+2008,Summer,London,Badminton,Event_18,P V Sindhu,Female,UK,Silver,25
+2020,Summer,Rio,Badminton,Event_20,Usain Bolt,Male,India,Silver,31
+2016,Summer,Beijing,Badminton,Event_7,Michael Phelps,Female,USA,Bronze,25
+2012,Summer,Beijing,Wrestling,Event_2,Michael Phelps,Male,China,Silver,23
+2016,Summer,London,Swimming,Event_10,Mary Kom,Male,USA,Bronze,18
+2016,Summer,Beijing,Swimming,Event_17,Mirabai Chanu,Male,USA,Bronze,29
+2020,Summer,Rio,Swimming,Event_16,Wayde van Niekerk,Female,UK,Gold,27
+2012,Summer,Beijing,Boxing,Event_17,Wayde van Niekerk,Male,Jamaica,Gold,26
+2020,Summer,Rio,Swimming,Event_13,Sushil Kumar,Female,Jamaica,Bronze,26
+2020,Summer,Beijing,Wrestling,Event_14,P V Sindhu,Male,Japan,Bronze,18
+2020,Summer,London,Athletics,Event_6,Usain Bolt,Male,Jamaica,Bronze,19
+2008,Summer,Rio,Boxing,Event_8,Mirabai Chanu,Male,UK,Silver,24
+2020,Summer,Beijing,Badminton,Event_2,Caeleb Dressel,Male,India,Bronze,31
+2008,Summer,Rio,Badminton,Event_11,Usain Bolt,Male,Japan,Gold,29
+2012,Summer,Tokyo,Wrestling,Event_9,Caeleb Dressel,Male,Jamaica,Silver,32
+2008,Summer,Beijing,Boxing,Event_6,P V Sindhu,Female,UK,Bronze,28
+2020,Summer,Rio,Boxing,Event_19,Mary Kom,Male,India,Gold,27
+2016,Summer,Rio,Athletics,Event_16,Wayde van Niekerk,Male,Jamaica,Silver,18
+2020,Summer,Tokyo,Boxing,Event_3,Caeleb Dressel,Female,UK,Silver,23
+2016,Summer,London,Badminton,Event_10,Caeleb Dressel,Female,Australia,Silver,24
+2008,Summer,Rio,Boxing,Event_1,Caeleb Dressel,Female,UK,Bronze,35
+2008,Summer,London,Boxing,Event_2,Simone Biles,Male,India,Bronze,26
+2012,Summer,Beijing,Wrestling,Event_13,Sushil Kumar,Male,UK,Silver,32
+2020,Summer,Rio,Swimming,Event_14,Yuzuru Hanyu,Male,India,Gold,18
+2008,Summer,Beijing,Gymnastics,Event_11,Sushil Kumar,Female,China,Gold,22
+2012,Summer,London,Athletics,Event_10,Neeraj Chopra,Female,Japan,Gold,19
+2016,Summer,London,Swimming,Event_11,Neeraj Chopra,Female,China,Bronze,20
+2012,Summer,London,Gymnastics,Event_1,Michael Phelps,Female,USA,Bronze,27
+2016,Summer,Tokyo,Wrestling,Event_20,Yuzuru Hanyu,Male,USA,Silver,27
+2020,Summer,London,Badminton,Event_6,Caeleb Dressel,Male,Jamaica,Gold,19
+2008,Summer,Rio,Badminton,Event_17,Usain Bolt,Male,India,Bronze,21
+2008,Summer,Rio,Athletics,Event_10,Serena Williams,Female,Jamaica,Bronze,29
+2012,Summer,Rio,Wrestling,Event_3,Usain Bolt,Female,Jamaica,Silver,24
+2008,Summer,Rio,Gymnastics,Event_1,Michael Phelps,Male,Jamaica,Silver,35
+2020,Summer,Beijing,Wrestling,Event_5,Wayde van Niekerk,Male,Japan,Bronze,27
+2016,Summer,London,Swimming,Event_12,Simone Biles,Male,India,Bronze,34
+2008,Summer,London,Badminton,Event_14,Serena Williams,Male,USA,Silver,29
+2012,Summer,London,Gymnastics,Event_10,Caeleb Dressel,Male,Japan,Bronze,23
+2008,Summer,London,Boxing,Event_19,Mary Kom,Male,India,Gold,27
+2008,Summer,Rio,Gymnastics,Event_10,Mirabai Chanu,Male,Australia,Silver,29
+2016,Summer,Beijing,Badminton,Event_10,Mirabai Chanu,Male,UK,Silver,35
+2016,Summer,Beijing,Athletics,Event_4,Caeleb Dressel,Male,UK,Silver,18
+2016,Summer,London,Gymnastics,Event_19,Mary Kom,Female,Japan,Silver,32
+2016,Summer,Beijing,Boxing,Event_6,Serena Williams,Female,Jamaica,Silver,35
+2016,Summer,Beijing,Swimming,Event_13,Sushil Kumar,Male,Japan,Silver,19
+2016,Summer,Beijing,Badminton,Event_5,P V Sindhu,Male,USA,Gold,32
+2012,Summer,London,Athletics,Event_8,Usain Bolt,Male,Japan,Bronze,35
+2016,Summer,Beijing,Swimming,Event_17,Sushil Kumar,Female,India,Gold,18
+2008,Summer,Tokyo,Wrestling,Event_18,Wayde van Niekerk,Male,USA,Gold,31
+2012,Summer,Tokyo,Gymnastics,Event_14,Mary Kom,Male,Jamaica,Gold,22
+2008,Summer,London,Gymnastics,Event_19,Caeleb Dressel,Female,USA,Bronze,22
+2016,Summer,Tokyo,Athletics,Event_16,Neeraj Chopra,Male,Jamaica,Bronze,27
+2020,Summer,London,Wrestling,Event_11,Neeraj Chopra,Female,Jamaica,Bronze,21
+2008,Summer,London,Boxing,Event_17,Neeraj Chopra,Male,Japan,Silver,30
+2008,Summer,Beijing,Gymnastics,Event_14,Wayde van Niekerk,Male,USA,Bronze,32
+2012,Summer,Beijing,Athletics,Event_19,Michael Phelps,Female,China,Silver,35
+2016,Summer,London,Athletics,Event_8,Caeleb Dressel,Female,China,Gold,18
+2016,Summer,Beijing,Gymnastics,Event_17,P V Sindhu,Male,Australia,Gold,18
+2012,Summer,London,Athletics,Event_19,Neeraj Chopra,Female,China,Silver,34
+2020,Summer,London,Badminton,Event_12,Usain Bolt,Female,China,Gold,35
+2012,Summer,Tokyo,Wrestling,Event_17,Caeleb Dressel,Male,UK,Silver,31
+2020,Summer,Beijing,Wrestling,Event_16,Usain Bolt,Female,Australia,Gold,33
+2020,Summer,London,Badminton,Event_4,Mary Kom,Female,USA,Gold,24
+2008,Summer,Tokyo,Boxing,Event_9,Serena Williams,Female,Japan,Bronze,27
+2016,Summer,London,Wrestling,Event_6,Yuzuru Hanyu,Female,USA,Silver,27
+2008,Summer,London,Athletics,Event_2,Mary Kom,Male,UK,Silver,35
+2020,Summer,Rio,Swimming,Event_17,Yuzuru Hanyu,Female,Japan,Gold,34
+2012,Summer,Rio,Gymnastics,Event_8,Usain Bolt,Male,USA,Silver,29
+2016,Summer,Tokyo,Athletics,Event_4,Caeleb Dressel,Male,Australia,Gold,29
+2012,Summer,Beijing,Swimming,Event_20,Mirabai Chanu,Female,USA,Bronze,27
+2012,Summer,Tokyo,Boxing,Event_14,Simone Biles,Male,UK,Gold,26
+2016,Summer,Tokyo,Badminton,Event_6,Mary Kom,Female,Jamaica,Gold,21
+2012,Summer,Beijing,Athletics,Event_11,Yuzuru Hanyu,Female,UK,Bronze,25
+2020,Summer,Beijing,Athletics,Event_11,P V Sindhu,Female,India,Silver,20
+2020,Summer,Tokyo,Athletics,Event_14,Mary Kom,Male,Japan,Gold,35
+2020,Summer,London,Boxing,Event_15,Caeleb Dressel,Male,India,Bronze,30
+2012,Summer,Rio,Athletics,Event_8,Usain Bolt,Female,China,Gold,18
+2008,Summer,Tokyo,Gymnastics,Event_2,Sushil Kumar,Male,Australia,Gold,33
+2008,Summer,London,Badminton,Event_7,Caeleb Dressel,Female,Jamaica,Bronze,27
+2008,Summer,London,Swimming,Event_7,Sushil Kumar,Female,Jamaica,Bronze,29
+2012,Summer,Tokyo,Boxing,Event_18,P V Sindhu,Male,UK,Bronze,34
+2016,Summer,Beijing,Boxing,Event_18,Simone Biles,Male,India,Silver,23
+2012,Summer,Rio,Badminton,Event_15,Yuzuru Hanyu,Male,Australia,Gold,24
+2012,Summer,Rio,Boxing,Event_18,P V Sindhu,Female,Australia,Bronze,25
+2016,Summer,Beijing,Athletics,Event_20,P V Sindhu,Female,India,Bronze,19
+2020,Summer,London,Athletics,Event_2,Yuzuru Hanyu,Female,Australia,Bronze,30
+2008,Summer,Beijing,Gymnastics,Event_8,Mirabai Chanu,Male,Australia,Silver,21
+2008,Summer,Tokyo,Athletics,Event_5,Mary Kom,Female,China,Gold,26
+2016,Summer,Beijing,Gymnastics,Event_10,Neeraj Chopra,Male,Australia,Silver,18
+2020,Summer,Tokyo,Gymnastics,Event_18,Mary Kom,Male,India,Gold,32
+2016,Summer,Tokyo,Gymnastics,Event_18,Neeraj Chopra,Male,USA,Gold,21
+2012,Summer,Beijing,Swimming,Event_1,Usain Bolt,Female,India,Silver,20
+2020,Summer,Rio,Swimming,Event_20,Wayde van Niekerk,Female,USA,Bronze,28
+2008,Summer,Tokyo,Gymnastics,Event_3,Simone Biles,Female,USA,Silver,25
+2008,Summer,Rio,Athletics,Event_9,Mary Kom,Female,Australia,Silver,35
+2020,Summer,London,Gymnastics,Event_4,Serena Williams,Female,Australia,Silver,24
+2020,Summer,Tokyo,Athletics,Event_16,Serena Williams,Male,China,Gold,35
+2016,Summer,Beijing,Gymnastics,Event_7,Michael Phelps,Male,Japan,Bronze,34
+2020,Summer,Rio,Boxing,Event_16,Simone Biles,Female,USA,Gold,23
+2012,Summer,Tokyo,Wrestling,Event_6,Usain Bolt,Female,China,Silver,28
+2020,Summer,Rio,Gymnastics,Event_5,P V Sindhu,Female,USA,Bronze,30
+2020,Summer,London,Wrestling,Event_5,Sushil Kumar,Male,USA,Silver,19
+2008,Summer,Rio,Swimming,Event_4,Neeraj Chopra,Female,Jamaica,Silver,19
+2012,Summer,London,Boxing,Event_19,Yuzuru Hanyu,Female,Australia,Bronze,28
+2020,Summer,Tokyo,Gymnastics,Event_4,Michael Phelps,Male,India,Gold,23
+2020,Summer,Beijing,Gymnastics,Event_3,Simone Biles,Female,China,Silver,23
+2012,Summer,Beijing,Athletics,Event_18,Serena Williams,Female,Australia,Gold,32
+2012,Summer,London,Boxing,Event_6,Yuzuru Hanyu,Male,UK,Silver,18
+2008,Summer,Rio,Swimming,Event_16,Serena Williams,Female,India,Silver,20
+2008,Summer,Beijing,Wrestling,Event_19,Mary Kom,Male,Japan,Gold,22
+2012,Summer,London,Wrestling,Event_7,Usain Bolt,Male,China,Bronze,27
+2016,Summer,Rio,Swimming,Event_16,Caeleb Dressel,Female,China,Bronze,31
+2020,Summer,Rio,Badminton,Event_3,Yuzuru Hanyu,Female,Jamaica,Silver,22
+2008,Summer,Beijing,Gymnastics,Event_9,Serena Williams,Female,China,Gold,33
+2020,Summer,Tokyo,Gymnastics,Event_6,Yuzuru Hanyu,Male,Jamaica,Bronze,22
+2008,Summer,Rio,Swimming,Event_6,Yuzuru Hanyu,Male,Japan,Bronze,23
+2020,Summer,London,Wrestling,Event_12,Mary Kom,Female,UK,Silver,21
+2008,Summer,Rio,Boxing,Event_10,P V Sindhu,Male,Jamaica,Silver,34
+2012,Summer,Beijing,Badminton,Event_5,Michael Phelps,Female,India,Bronze,18
+2012,Summer,Rio,Athletics,Event_4,Caeleb Dressel,Female,Japan,Bronze,27
+2008,Summer,Tokyo,Badminton,Event_18,Michael Phelps,Male,India,Silver,28
+2012,Summer,Beijing,Badminton,Event_17,Michael Phelps,Male,Australia,Gold,24
+2012,Summer,Rio,Swimming,Event_1,Simone Biles,Female,Japan,Silver,24
+2016,Summer,London,Gymnastics,Event_2,Usain Bolt,Female,China,Gold,30
+2020,Summer,Tokyo,Athletics,Event_1,Wayde van Niekerk,Male,China,Bronze,23
+2016,Summer,London,Boxing,Event_9,Yuzuru Hanyu,Female,China,Silver,35
+2008,Summer,Tokyo,Wrestling,Event_1,Mary Kom,Male,Australia,Silver,31
+2008,Summer,London,Wrestling,Event_11,Wayde van Niekerk,Male,UK,Bronze,25
+2016,Summer,Rio,Athletics,Event_4,Caeleb Dressel,Male,Jamaica,Bronze,21
+2016,Summer,Beijing,Swimming,Event_11,Neeraj Chopra,Female,Japan,Gold,33
+2016,Summer,Beijing,Swimming,Event_12,Michael Phelps,Female,UK,Bronze,20
+2008,Summer,Beijing,Athletics,Event_14,Neeraj Chopra,Female,Jamaica,Gold,34
+2020,Summer,Beijing,Gymnastics,Event_1,Caeleb Dressel,Male,USA,Gold,26
+2020,Summer,London,Badminton,Event_6,Michael Phelps,Male,Jamaica,Silver,26
+2008,Summer,Beijing,Athletics,Event_11,Simone Biles,Female,USA,Silver,25
+2012,Summer,Beijing,Athletics,Event_1,Simone Biles,Female,China,Bronze,35
+2012,Summer,London,Boxing,Event_2,Sushil Kumar,Female,USA,Bronze,34
+2020,Summer,Tokyo,Athletics,Event_3,Usain Bolt,Male,China,Gold,22
+2012,Summer,Rio,Athletics,Event_6,Wayde van Niekerk,Female,Japan,Bronze,18
+2020,Summer,London,Boxing,Event_17,Mirabai Chanu,Male,UK,Bronze,21
+2016,Summer,London,Badminton,Event_17,Neeraj Chopra,Male,USA,Silver,33
+2008,Summer,Tokyo,Boxing,Event_7,Yuzuru Hanyu,Male,China,Gold,25
+2020,Summer,London,Athletics,Event_8,Sushil Kumar,Female,Jamaica,Gold,32
+2012,Summer,Tokyo,Swimming,Event_17,Mary Kom,Male,China,Bronze,31
+2008,Summer,London,Badminton,Event_2,P V Sindhu,Male,China,Bronze,28
+2008,Summer,Beijing,Athletics,Event_1,Mirabai Chanu,Male,Japan,Bronze,23
+2012,Summer,Rio,Boxing,Event_14,P V Sindhu,Male,China,Gold,19
+2012,Summer,Tokyo,Athletics,Event_17,Simone Biles,Male,China,Bronze,32
+2008,Summer,Beijing,Gymnastics,Event_16,Wayde van Niekerk,Male,UK,Bronze,21
+2020,Summer,Tokyo,Badminton,Event_7,Usain Bolt,Male,Japan,Gold,21
+2016,Summer,Rio,Swimming,Event_17,P V Sindhu,Male,Jamaica,Gold,32
+2012,Summer,Tokyo,Athletics,Event_2,Caeleb Dressel,Female,USA,Gold,19
+2016,Summer,Beijing,Athletics,Event_17,Michael Phelps,Male,USA,Bronze,20
+2020,Summer,Rio,Athletics,Event_13,Simone Biles,Male,Jamaica,Silver,21
+2012,Summer,Rio,Gymnastics,Event_18,Mirabai Chanu,Female,UK,Bronze,21
+2008,Summer,Tokyo,Gymnastics,Event_5,Neeraj Chopra,Male,Jamaica,Silver,34
+2008,Summer,Tokyo,Boxing,Event_16,P V Sindhu,Male,Japan,Gold,30
+2016,Summer,Tokyo,Badminton,Event_18,Mirabai Chanu,Female,USA,Gold,29
+2016,Summer,Rio,Swimming,Event_4,Serena Williams,Female,Jamaica,Silver,20
+2012,Summer,Rio,Gymnastics,Event_3,Caeleb Dressel,Female,Japan,Gold,20
+2012,Summer,London,Boxing,Event_8,Simone Biles,Female,India,Gold,28
+2012,Summer,Tokyo,Gymnastics,Event_11,Mary Kom,Female,Australia,Bronze,26
+2012,Summer,Tokyo,Boxing,Event_16,Sushil Kumar,Female,Japan,Silver,34
+2016,Summer,Tokyo,Athletics,Event_19,Wayde van Niekerk,Male,UK,Gold,19
+2008,Summer,Beijing,Athletics,Event_17,Michael Phelps,Male,Jamaica,Bronze,33
+2008,Summer,Tokyo,Swimming,Event_17,Yuzuru Hanyu,Male,USA,Gold,31
+2020,Summer,Tokyo,Gymnastics,Event_6,Wayde van Niekerk,Female,India,Silver,30
+2012,Summer,Rio,Badminton,Event_9,Mary Kom,Female,USA,Silver,30
+2020,Summer,Tokyo,Athletics,Event_15,Serena Williams,Male,India,Gold,22
+2016,Summer,Tokyo,Gymnastics,Event_15,Simone Biles,Male,Jamaica,Gold,20
+2020,Summer,Beijing,Boxing,Event_11,Michael Phelps,Male,India,Bronze,18
+2020,Summer,Tokyo,Gymnastics,Event_17,Mirabai Chanu,Female,China,Gold,34
+2016,Summer,Beijing,Swimming,Event_13,P V Sindhu,Female,India,Gold,33
+2016,Summer,Beijing,Swimming,Event_13,Usain Bolt,Female,Australia,Gold,28
+2012,Summer,Tokyo,Badminton,Event_2,P V Sindhu,Male,Australia,Silver,18
+2012,Summer,Beijing,Gymnastics,Event_14,Mirabai Chanu,Female,USA,Bronze,22
+2016,Summer,Tokyo,Gymnastics,Event_2,Mirabai Chanu,Female,Jamaica,Gold,29
+2016,Summer,Rio,Athletics,Event_3,Sushil Kumar,Male,Jamaica,Bronze,18
+2020,Summer,London,Wrestling,Event_13,Wayde van Niekerk,Male,UK,Silver,21
+2012,Summer,Tokyo,Boxing,Event_14,Neeraj Chopra,Female,UK,Silver,21
+2012,Summer,Beijing,Athletics,Event_3,Neeraj Chopra,Female,Australia,Silver,25
+2008,Summer,Tokyo,Boxing,Event_11,Usain Bolt,Male,Japan,Silver,31
+2020,Summer,London,Wrestling,Event_14,Mirabai Chanu,Female,China,Silver,31
+2016,Summer,Rio,Wrestling,Event_5,Wayde van Niekerk,Male,USA,Gold,19
+2012,Summer,London,Gymnastics,Event_19,Yuzuru Hanyu,Male,USA,Bronze,29
+2012,Summer,Rio,Swimming,Event_9,Neeraj Chopra,Male,UK,Silver,27
+2020,Summer,Rio,Swimming,Event_8,Simone Biles,Female,Japan,Bronze,24
+2012,Summer,Rio,Gymnastics,Event_19,Neeraj Chopra,Male,Australia,Bronze,27
+2020,Summer,Tokyo,Gymnastics,Event_17,P V Sindhu,Male,USA,Gold,35
+2012,Summer,Rio,Wrestling,Event_14,P V Sindhu,Female,USA,Gold,32
+2008,Summer,London,Wrestling,Event_2,Simone Biles,Male,UK,Bronze,21
+2020,Summer,Beijing,Gymnastics,Event_7,Wayde van Niekerk,Female,Australia,Silver,21
+2016,Summer,Beijing,Gymnastics,Event_19,Usain Bolt,Male,Australia,Gold,19
+2008,Summer,Beijing,Swimming,Event_13,Wayde van Niekerk,Female,USA,Bronze,20
+2016,Summer,London,Swimming,Event_10,Caeleb Dressel,Female,Australia,Silver,24
+2008,Summer,Rio,Boxing,Event_6,Serena Williams,Female,India,Silver,21
+2016,Summer,Rio,Wrestling,Event_3,Usain Bolt,Female,USA,Gold,33
+2016,Summer,Tokyo,Athletics,Event_12,Serena Williams,Male,Jamaica,Bronze,21
+2020,Summer,Tokyo,Swimming,Event_3,P V Sindhu,Male,USA,Bronze,21
+2012,Summer,Rio,Swimming,Event_19,P V Sindhu,Male,UK,Silver,19
+2016,Summer,London,Gymnastics,Event_11,Wayde van Niekerk,Female,UK,Bronze,31
+2012,Summer,Tokyo,Boxing,Event_4,Yuzuru Hanyu,Female,USA,Silver,29
+2012,Summer,Beijing,Wrestling,Event_11,Caeleb Dressel,Female,USA,Bronze,34
+2012,Summer,Beijing,Badminton,Event_13,Yuzuru Hanyu,Female,UK,Gold,28
+2008,Summer,London,Badminton,Event_3,Mirabai Chanu,Female,USA,Silver,26
+2008,Summer,Rio,Wrestling,Event_19,Mirabai Chanu,Female,Japan,Gold,21
+2016,Summer,London,Badminton,Event_2,Simone Biles,Male,Japan,Bronze,26
+2008,Summer,Beijing,Gymnastics,Event_15,Wayde van Niekerk,Male,India,Bronze,20
+2016,Summer,London,Wrestling,Event_17,Mirabai Chanu,Male,Australia,Bronze,18
+2020,Summer,Rio,Boxing,Event_17,Michael Phelps,Female,UK,Bronze,28
+2012,Summer,Rio,Boxing,Event_18,Mirabai Chanu,Male,UK,Silver,33
+2016,Summer,Rio,Wrestling,Event_13,Mirabai Chanu,Female,India,Silver,31
+2008,Summer,Beijing,Wrestling,Event_1,Michael Phelps,Female,Australia,Silver,31
+2012,Summer,Beijing,Athletics,Event_8,Sushil Kumar,Female,UK,Bronze,23
+2020,Summer,Beijing,Gymnastics,Event_18,Caeleb Dressel,Female,USA,Gold,28
+2016,Summer,London,Wrestling,Event_5,Mary Kom,Female,USA,Bronze,21
+2020,Summer,Rio,Athletics,Event_18,Sushil Kumar,Female,Japan,Gold,34
+2020,Summer,Beijing,Boxing,Event_7,Simone Biles,Female,India,Gold,20
+2016,Summer,Rio,Wrestling,Event_14,Sushil Kumar,Female,India,Silver,19
+2016,Summer,Tokyo,Badminton,Event_5,Mary Kom,Male,UK,Gold,18
+2012,Summer,Beijing,Wrestling,Event_9,Sushil Kumar,Female,Japan,Gold,30
+2016,Summer,Rio,Boxing,Event_6,P V Sindhu,Male,India,Gold,34
+2020,Summer,Rio,Wrestling,Event_14,Simone Biles,Male,India,Gold,30
+2016,Summer,London,Boxing,Event_17,Serena Williams,Male,Japan,Bronze,24
+2020,Summer,Rio,Boxing,Event_10,Wayde van Niekerk,Female,India,Silver,25
+2020,Summer,London,Swimming,Event_15,Serena Williams,Male,Japan,Bronze,26
+2016,Summer,Beijing,Badminton,Event_2,P V Sindhu,Male,USA,Gold,23
+2016,Summer,Beijing,Boxing,Event_15,Mirabai Chanu,Female,UK,Silver,35
+2012,Summer,Beijing,Swimming,Event_1,Mirabai Chanu,Male,Australia,Silver,26
+2020,Summer,Rio,Badminton,Event_19,Wayde van Niekerk,Female,Japan,Gold,34
+2020,Summer,Tokyo,Swimming,Event_10,Sushil Kumar,Female,India,Gold,19
+2016,Summer,London,Wrestling,Event_1,Mirabai Chanu,Female,USA,Silver,21
+2016,Summer,Rio,Boxing,Event_2,Simone Biles,Female,USA,Silver,28
+2020,Summer,Rio,Boxing,Event_2,Yuzuru Hanyu,Male,China,Gold,24
+2008,Summer,Rio,Wrestling,Event_1,P V Sindhu,Female,China,Silver,30
+2020,Summer,Beijing,Athletics,Event_6,Sushil Kumar,Female,USA,Silver,33
+2008,Summer,Rio,Athletics,Event_18,P V Sindhu,Male,Jamaica,Gold,29
+2012,Summer,Tokyo,Swimming,Event_5,P V Sindhu,Female,USA,Gold,34
+2016,Summer,Beijing,Swimming,Event_3,Serena Williams,Male,UK,Bronze,23
+2016,Summer,Beijing,Badminton,Event_15,Caeleb Dressel,Female,Jamaica,Silver,35
+2016,Summer,Tokyo,Athletics,Event_2,Yuzuru Hanyu,Female,Japan,Gold,34
+2016,Summer,Tokyo,Wrestling,Event_10,Simone Biles,Female,Australia,Bronze,21
+2020,Summer,Rio,Athletics,Event_20,Usain Bolt,Female,India,Bronze,18
+2012,Summer,Beijing,Wrestling,Event_7,Sushil Kumar,Male,Australia,Bronze,20
+2008,Summer,Tokyo,Wrestling,Event_4,Michael Phelps,Female,USA,Bronze,19
+2016,Summer,London,Badminton,Event_17,Yuzuru Hanyu,Male,Jamaica,Silver,28
+2008,Summer,Rio,Athletics,Event_17,Mirabai Chanu,Male,China,Gold,22
+2020,Summer,London,Swimming,Event_8,Simone Biles,Female,India,Silver,21
+2012,Summer,Rio,Gymnastics,Event_17,Sushil Kumar,Female,India,Gold,19
+2012,Summer,Rio,Gymnastics,Event_6,Wayde van Niekerk,Female,Jamaica,Bronze,24
+2020,Summer,London,Gymnastics,Event_2,Neeraj Chopra,Female,USA,Silver,30
+2016,Summer,Rio,Gymnastics,Event_2,Sushil Kumar,Male,USA,Silver,26
+2008,Summer,Rio,Wrestling,Event_10,P V Sindhu,Female,UK,Silver,20
+2008,Summer,Tokyo,Athletics,Event_13,Neeraj Chopra,Female,USA,Bronze,23
+2012,Summer,Tokyo,Wrestling,Event_14,Simone Biles,Male,China,Silver,35
+2020,Summer,Rio,Wrestling,Event_5,Wayde van Niekerk,Female,India,Bronze,21
+2020,Summer,London,Gymnastics,Event_15,Mary Kom,Female,Australia,Gold,26
+2020,Summer,Tokyo,Wrestling,Event_13,P V Sindhu,Male,India,Bronze,21
+2020,Summer,Rio,Swimming,Event_16,Serena Williams,Female,China,Gold,28
+2016,Summer,Rio,Gymnastics,Event_7,P V Sindhu,Male,UK,Silver,18
+2020,Summer,Rio,Badminton,Event_18,Neeraj Chopra,Male,Japan,Silver,26
+2012,Summer,Beijing,Swimming,Event_10,Mirabai Chanu,Male,India,Bronze,24
+2008,Summer,London,Swimming,Event_12,P V Sindhu,Female,UK,Bronze,35
+2012,Summer,Tokyo,Wrestling,Event_6,P V Sindhu,Male,China,Gold,20
+2008,Summer,Rio,Boxing,Event_4,Michael Phelps,Male,UK,Silver,29
+2020,Summer,London,Gymnastics,Event_17,Michael Phelps,Female,UK,Gold,35
+2008,Summer,Tokyo,Gymnastics,Event_4,Serena Williams,Male,China,Bronze,21
+2020,Summer,Tokyo,Badminton,Event_20,Neeraj Chopra,Male,USA,Bronze,35
+2016,Summer,Rio,Gymnastics,Event_7,Usain Bolt,Female,Australia,Bronze,27
+2020,Summer,Tokyo,Swimming,Event_1,Caeleb Dressel,Male,Japan,Bronze,24
+2016,Summer,Rio,Swimming,Event_19,Michael Phelps,Female,China,Silver,22
+2016,Summer,Tokyo,Gymnastics,Event_12,Mirabai Chanu,Female,Japan,Gold,22
+2016,Summer,Beijing,Swimming,Event_1,Neeraj Chopra,Female,UK,Gold,26
+2016,Summer,Rio,Athletics,Event_12,Wayde van Niekerk,Male,Jamaica,Gold,24
+2012,Summer,Beijing,Gymnastics,Event_16,P V Sindhu,Male,India,Gold,31
+2012,Summer,Beijing,Boxing,Event_17,Michael Phelps,Male,Jamaica,Bronze,19
+2008,Summer,London,Badminton,Event_19,Simone Biles,Female,China,Bronze,25
+2008,Summer,Tokyo,Athletics,Event_14,Caeleb Dressel,Female,UK,Gold,20
+2008,Summer,London,Swimming,Event_10,Usain Bolt,Male,India,Bronze,30
+2012,Summer,Rio,Gymnastics,Event_6,Michael Phelps,Male,Jamaica,Gold,29
+2020,Summer,Beijing,Gymnastics,Event_20,Michael Phelps,Male,India,Gold,26
+2008,Summer,Rio,Wrestling,Event_9,P V Sindhu,Male,UK,Bronze,27
+2012,Summer,Beijing,Badminton,Event_1,Serena Williams,Female,Japan,Silver,29
+2012,Summer,Tokyo,Wrestling,Event_10,Simone Biles,Male,USA,Silver,29
+2012,Summer,Beijing,Gymnastics,Event_18,Michael Phelps,Female,Australia,Gold,34
+2016,Summer,Tokyo,Wrestling,Event_12,Caeleb Dressel,Female,China,Bronze,22
+2008,Summer,Tokyo,Athletics,Event_15,Mary Kom,Female,Jamaica,Silver,27
+2012,Summer,Rio,Badminton,Event_16,Wayde van Niekerk,Female,UK,Gold,35
+2016,Summer,London,Wrestling,Event_10,Mirabai Chanu,Male,UK,Gold,33
+2008,Summer,Tokyo,Badminton,Event_18,Wayde van Niekerk,Female,Jamaica,Gold,27
+2020,Summer,Tokyo,Badminton,Event_12,Michael Phelps,Male,Jamaica,Silver,28
+2016,Summer,Tokyo,Gymnastics,Event_19,Mirabai Chanu,Male,Jamaica,Silver,31
+2012,Summer,Tokyo,Boxing,Event_20,Wayde van Niekerk,Male,UK,Gold,22
+2008,Summer,London,Boxing,Event_8,Usain Bolt,Female,Japan,Silver,31
+2012,Summer,Rio,Wrestling,Event_16,Mary Kom,Female,UK,Bronze,30
+2020,Summer,Tokyo,Boxing,Event_8,Sushil Kumar,Male,UK,Silver,30
+2012,Summer,London,Swimming,Event_17,P V Sindhu,Female,Jamaica,Gold,29
+2016,Summer,London,Wrestling,Event_8,Usain Bolt,Female,China,Bronze,26
+2020,Summer,London,Gymnastics,Event_6,Caeleb Dressel,Female,India,Gold,27
+2020,Summer,Rio,Swimming,Event_1,Michael Phelps,Male,UK,Silver,29
+2008,Summer,Beijing,Gymnastics,Event_3,Yuzuru Hanyu,Female,USA,Gold,26
+2020,Summer,Tokyo,Wrestling,Event_17,Caeleb Dressel,Female,Jamaica,Gold,24
+2020,Summer,Rio,Badminton,Event_18,Yuzuru Hanyu,Female,USA,Bronze,22
+2020,Summer,Rio,Badminton,Event_14,Michael Phelps,Female,China,Bronze,32
+2020,Summer,Tokyo,Gymnastics,Event_11,Caeleb Dressel,Female,Jamaica,Gold,33
+2012,Summer,London,Wrestling,Event_19,Wayde van Niekerk,Male,Japan,Bronze,20
+2008,Summer,London,Athletics,Event_14,Wayde van Niekerk,Female,UK,Silver,35
+2008,Summer,Beijing,Swimming,Event_20,Serena Williams,Male,Jamaica,Gold,33
+2020,Summer,Beijing,Athletics,Event_13,Yuzuru Hanyu,Female,China,Bronze,35
+2020,Summer,London,Gymnastics,Event_13,Mirabai Chanu,Female,China,Silver,22
+2012,Summer,Beijing,Swimming,Event_19,Mary Kom,Female,UK,Bronze,30
+2008,Summer,Rio,Boxing,Event_4,Simone Biles,Female,Jamaica,Silver,34
+2020,Summer,Tokyo,Swimming,Event_9,Wayde van Niekerk,Female,India,Gold,33
+2008,Summer,Tokyo,Swimming,Event_6,Yuzuru Hanyu,Male,USA,Gold,27
+2020,Summer,London,Wrestling,Event_6,Caeleb Dressel,Male,India,Silver,22
+2012,Summer,London,Badminton,Event_18,Serena Williams,Female,Jamaica,Bronze,26
+2016,Summer,Tokyo,Gymnastics,Event_15,P V Sindhu,Male,Australia,Silver,22
+2012,Summer,Tokyo,Athletics,Event_19,Caeleb Dressel,Male,Australia,Gold,30
+2020,Summer,London,Gymnastics,Event_2,Serena Williams,Male,UK,Bronze,32
+2012,Summer,Rio,Gymnastics,Event_16,Simone Biles,Male,Australia,Gold,30
+2012,Summer,London,Badminton,Event_17,Simone Biles,Female,China,Silver,32
+2012,Summer,Beijing,Gymnastics,Event_8,Yuzuru Hanyu,Female,USA,Bronze,32
+2012,Summer,Rio,Swimming,Event_15,Wayde van Niekerk,Female,Japan,Silver,33
+2020,Summer,London,Wrestling,Event_19,Serena Williams,Female,USA,Bronze,22
+2020,Summer,London,Gymnastics,Event_3,Serena Williams,Male,Australia,Silver,21
+2020,Summer,Tokyo,Swimming,Event_16,Yuzuru Hanyu,Male,China,Bronze,28
+2020,Summer,Tokyo,Badminton,Event_11,Michael Phelps,Male,Australia,Silver,25
+2016,Summer,Beijing,Athletics,Event_13,P V Sindhu,Female,Australia,Bronze,19
+2020,Summer,Tokyo,Boxing,Event_18,Serena Williams,Female,USA,Bronze,25
+2008,Summer,London,Gymnastics,Event_15,Wayde van Niekerk,Female,Jamaica,Silver,23
+2012,Summer,London,Wrestling,Event_17,Serena Williams,Female,Australia,Bronze,23
+2016,Summer,Tokyo,Swimming,Event_20,Wayde van Niekerk,Male,India,Gold,23
+2020,Summer,London,Swimming,Event_4,Serena Williams,Female,USA,Gold,24
+2016,Summer,London,Wrestling,Event_13,Mirabai Chanu,Female,UK,Gold,18
+2012,Summer,Tokyo,Badminton,Event_7,Serena Williams,Female,China,Bronze,28
+2020,Summer,Tokyo,Gymnastics,Event_5,P V Sindhu,Male,UK,Silver,26
+2016,Summer,London,Swimming,Event_17,Mary Kom,Male,India,Silver,29
+2012,Summer,Beijing,Swimming,Event_19,Wayde van Niekerk,Female,Jamaica,Silver,21
+2016,Summer,Beijing,Gymnastics,Event_2,Usain Bolt,Male,USA,Silver,32
+2008,Summer,Beijing,Wrestling,Event_16,Usain Bolt,Female,UK,Bronze,35
+2012,Summer,Tokyo,Boxing,Event_13,Neeraj Chopra,Female,Japan,Gold,20
+2012,Summer,Beijing,Swimming,Event_15,Sushil Kumar,Male,Japan,Silver,32
+2008,Summer,Tokyo,Boxing,Event_6,Neeraj Chopra,Female,UK,Gold,23
+2012,Summer,Beijing,Wrestling,Event_13,Simone Biles,Male,China,Gold,28
+2012,Summer,Beijing,Gymnastics,Event_1,Yuzuru Hanyu,Male,Australia,Silver,20
+2008,Summer,Beijing,Athletics,Event_7,Simone Biles,Female,Australia,Silver,26
+2008,Summer,Tokyo,Athletics,Event_17,Simone Biles,Male,India,Gold,32
+2008,Summer,London,Badminton,Event_5,Simone Biles,Female,India,Silver,28
+2008,Summer,London,Wrestling,Event_17,Yuzuru Hanyu,Male,Jamaica,Silver,33
+2016,Summer,Beijing,Athletics,Event_7,Mirabai Chanu,Female,UK,Silver,29
+2008,Summer,Tokyo,Swimming,Event_4,Yuzuru Hanyu,Male,Australia,Silver,27
+2016,Summer,Rio,Boxing,Event_17,Simone Biles,Female,Australia,Bronze,20
+2008,Summer,Beijing,Badminton,Event_12,Mary Kom,Male,China,Gold,23
+2012,Summer,Beijing,Wrestling,Event_3,Wayde van Niekerk,Female,Jamaica,Gold,20
+2020,Summer,London,Boxing,Event_12,Sushil Kumar,Female,USA,Bronze,25
+2020,Summer,London,Boxing,Event_12,Neeraj Chopra,Female,UK,Bronze,28
+2016,Summer,Rio,Boxing,Event_4,Michael Phelps,Female,India,Gold,18
+2016,Summer,Beijing,Badminton,Event_12,Caeleb Dressel,Male,China,Gold,30
+2016,Summer,London,Athletics,Event_2,Wayde van Niekerk,Male,Jamaica,Bronze,20
+2008,Summer,London,Athletics,Event_2,P V Sindhu,Male,Jamaica,Bronze,35
+2016,Summer,London,Badminton,Event_5,Michael Phelps,Female,India,Silver,18
+2008,Summer,Tokyo,Gymnastics,Event_12,P V Sindhu,Female,Japan,Gold,28
+2008,Summer,Tokyo,Gymnastics,Event_20,Usain Bolt,Female,Japan,Bronze,29
+2012,Summer,London,Wrestling,Event_19,Yuzuru Hanyu,Male,USA,Bronze,19
+2012,Summer,Tokyo,Badminton,Event_6,Serena Williams,Male,China,Silver,27
+2008,Summer,London,Gymnastics,Event_18,Mirabai Chanu,Female,Jamaica,Silver,33
+2020,Summer,London,Wrestling,Event_11,Yuzuru Hanyu,Male,UK,Silver,34
+2020,Summer,Beijing,Boxing,Event_15,Michael Phelps,Male,USA,Silver,21
+2016,Summer,Rio,Boxing,Event_19,P V Sindhu,Male,China,Silver,25
+2020,Summer,London,Swimming,Event_16,Neeraj Chopra,Female,Jamaica,Silver,23
+2020,Summer,Tokyo,Gymnastics,Event_2,Mirabai Chanu,Male,USA,Gold,21
+2012,Summer,Beijing,Boxing,Event_15,Yuzuru Hanyu,Male,India,Gold,30
+2012,Summer,Beijing,Badminton,Event_3,Mary Kom,Female,UK,Gold,24
+2020,Summer,London,Badminton,Event_1,Serena Williams,Male,India,Bronze,21
+2016,Summer,Rio,Boxing,Event_15,Sushil Kumar,Female,Australia,Silver,20
+2016,Summer,Rio,Gymnastics,Event_6,Yuzuru Hanyu,Female,Jamaica,Silver,26
+2016,Summer,Tokyo,Swimming,Event_19,Simone Biles,Female,UK,Gold,29
+2020,Summer,Rio,Badminton,Event_1,Yuzuru Hanyu,Male,Japan,Bronze,22
+2008,Summer,Rio,Swimming,Event_19,Mirabai Chanu,Female,Jamaica,Gold,24
+2012,Summer,London,Badminton,Event_4,Simone Biles,Female,China,Gold,30
+2012,Summer,Rio,Athletics,Event_13,Mary Kom,Male,China,Bronze,18
+2016,Summer,Tokyo,Athletics,Event_16,Mary Kom,Female,India,Bronze,29
+2020,Summer,Tokyo,Boxing,Event_13,Sushil Kumar,Female,Jamaica,Silver,18
+2020,Summer,Tokyo,Athletics,Event_4,P V Sindhu,Female,Japan,Gold,31
+2012,Summer,Tokyo,Badminton,Event_16,Mary Kom,Female,China,Bronze,19
+2008,Summer,Rio,Wrestling,Event_10,Serena Williams,Male,India,Gold,23
+2016,Summer,Tokyo,Gymnastics,Event_8,Usain Bolt,Female,UK,Bronze,24
+2012,Summer,London,Athletics,Event_15,Sushil Kumar,Male,USA,Silver,31
+2012,Summer,Beijing,Boxing,Event_4,Simone Biles,Male,Australia,Gold,28
+2012,Summer,London,Swimming,Event_16,P V Sindhu,Female,Japan,Silver,18
+2020,Summer,Rio,Gymnastics,Event_11,Caeleb Dressel,Male,Australia,Gold,33
+2016,Summer,Tokyo,Swimming,Event_2,Michael Phelps,Female,UK,Silver,24
+2016,Summer,Beijing,Badminton,Event_5,Wayde van Niekerk,Male,China,Gold,29
+2020,Summer,Beijing,Badminton,Event_11,Neeraj Chopra,Female,UK,Bronze,32
+2020,Summer,Rio,Athletics,Event_8,Serena Williams,Male,India,Silver,31
+2020,Summer,Tokyo,Swimming,Event_5,Neeraj Chopra,Female,UK,Gold,33
+2020,Summer,London,Athletics,Event_12,Usain Bolt,Male,China,Gold,25
+2008,Summer,Tokyo,Athletics,Event_18,P V Sindhu,Male,India,Gold,19
+2012,Summer,Beijing,Boxing,Event_19,Usain Bolt,Male,India,Silver,25
+2020,Summer,Tokyo,Gymnastics,Event_12,Serena Williams,Female,China,Gold,29
+2012,Summer,London,Gymnastics,Event_14,Yuzuru Hanyu,Male,Jamaica,Silver,35
+2008,Summer,Rio,Boxing,Event_4,Serena Williams,Female,Japan,Silver,31
+2020,Summer,Tokyo,Gymnastics,Event_1,Mary Kom,Female,Jamaica,Bronze,19
+2008,Summer,London,Gymnastics,Event_1,P V Sindhu,Male,UK,Silver,25
+2012,Summer,Tokyo,Wrestling,Event_20,Caeleb Dressel,Female,Australia,Silver,22
+2016,Summer,London,Athletics,Event_2,Michael Phelps,Female,Jamaica,Silver,21
+2020,Summer,London,Athletics,Event_16,Michael Phelps,Male,India,Silver,18
+2020,Summer,Tokyo,Badminton,Event_12,Usain Bolt,Male,UK,Bronze,30
+2012,Summer,Rio,Gymnastics,Event_9,Yuzuru Hanyu,Female,USA,Bronze,21
+2016,Summer,Beijing,Swimming,Event_20,Caeleb Dressel,Male,India,Silver,25
+2020,Summer,Rio,Swimming,Event_7,P V Sindhu,Male,Japan,Silver,27
+2020,Summer,Tokyo,Badminton,Event_18,P V Sindhu,Female,India,Bronze,29
+2008,Summer,Rio,Gymnastics,Event_12,Sushil Kumar,Male,USA,Silver,29
+2012,Summer,Tokyo,Gymnastics,Event_14,Yuzuru Hanyu,Female,USA,Silver,35
+2020,Summer,Tokyo,Gymnastics,Event_14,Simone Biles,Female,Jamaica,Bronze,28
+2008,Summer,Beijing,Boxing,Event_11,Mirabai Chanu,Female,China,Silver,32
+2016,Summer,Rio,Boxing,Event_6,Serena Williams,Female,USA,Bronze,18
+2020,Summer,Tokyo,Boxing,Event_11,Mirabai Chanu,Female,UK,Bronze,23
+2008,Summer,Rio,Swimming,Event_1,Caeleb Dressel,Female,Jamaica,Bronze,25
+2016,Summer,Tokyo,Athletics,Event_7,Sushil Kumar,Male,Australia,Silver,35
+2016,Summer,London,Wrestling,Event_8,Serena Williams,Male,Australia,Gold,19
+2016,Summer,Rio,Boxing,Event_13,Wayde van Niekerk,Female,India,Silver,33
+2016,Summer,Tokyo,Swimming,Event_15,Mirabai Chanu,Male,Jamaica,Gold,29
+2012,Summer,Tokyo,Wrestling,Event_17,Serena Williams,Male,USA,Gold,29
+2020,Summer,Beijing,Athletics,Event_16,Caeleb Dressel,Male,Japan,Silver,30
+2016,Summer,Rio,Swimming,Event_16,P V Sindhu,Male,India,Gold,19
+2012,Summer,Beijing,Wrestling,Event_16,Caeleb Dressel,Male,Japan,Silver,32
+2020,Summer,London,Swimming,Event_4,Neeraj Chopra,Male,Australia,Gold,32
+2008,Summer,Beijing,Gymnastics,Event_2,Yuzuru Hanyu,Male,Australia,Gold,22
+2020,Summer,Tokyo,Wrestling,Event_15,Neeraj Chopra,Male,Japan,Bronze,32
+2012,Summer,Beijing,Athletics,Event_7,Neeraj Chopra,Male,China,Bronze,26
+2012,Summer,Rio,Badminton,Event_7,Wayde van Niekerk,Female,Australia,Gold,30
+2008,Summer,Rio,Swimming,Event_12,Michael Phelps,Female,Japan,Silver,19
+2008,Summer,Tokyo,Wrestling,Event_7,Sushil Kumar,Male,Jamaica,Bronze,23
+2008,Summer,London,Boxing,Event_19,Wayde van Niekerk,Female,China,Gold,25
+2008,Summer,Rio,Athletics,Event_3,Neeraj Chopra,Male,USA,Silver,34
+2020,Summer,London,Badminton,Event_16,Sushil Kumar,Female,Australia,Silver,18
+2020,Summer,Tokyo,Swimming,Event_15,Mary Kom,Male,UK,Bronze,22
+2012,Summer,Tokyo,Wrestling,Event_8,Simone Biles,Male,India,Bronze,24
+2012,Summer,Rio,Badminton,Event_5,Mirabai Chanu,Male,USA,Bronze,20
+2020,Summer,Rio,Swimming,Event_2,Serena Williams,Male,Japan,Silver,27
+2012,Summer,London,Athletics,Event_2,Mirabai Chanu,Male,Jamaica,Silver,25
+2008,Summer,Tokyo,Wrestling,Event_7,Usain Bolt,Female,China,Bronze,27
+2012,Summer,Beijing,Gymnastics,Event_11,Wayde van Niekerk,Male,Jamaica,Bronze,29
+2008,Summer,Tokyo,Wrestling,Event_14,Yuzuru Hanyu,Male,China,Bronze,27
+2012,Summer,Rio,Badminton,Event_16,Simone Biles,Female,UK,Silver,28
+2008,Summer,London,Swimming,Event_6,Mary Kom,Female,USA,Gold,26
+2020,Summer,Tokyo,Swimming,Event_1,Wayde van Niekerk,Male,UK,Gold,31
+2020,Summer,London,Badminton,Event_15,Sushil Kumar,Female,India,Gold,31
+2020,Summer,Rio,Gymnastics,Event_19,Sushil Kumar,Male,India,Gold,34
+2008,Summer,Rio,Badminton,Event_6,Usain Bolt,Male,Jamaica,Silver,35
+2020,Summer,London,Boxing,Event_17,Wayde van Niekerk,Female,USA,Gold,34
+2016,Summer,Rio,Swimming,Event_20,Mary Kom,Male,UK,Silver,19
+2016,Summer,Tokyo,Wrestling,Event_17,Yuzuru Hanyu,Female,Japan,Silver,29
+2012,Summer,London,Swimming,Event_13,Mary Kom,Male,UK,Bronze,28
+2020,Summer,Rio,Badminton,Event_20,Mary Kom,Female,UK,Gold,26
+2020,Summer,London,Athletics,Event_19,Serena Williams,Male,Australia,Gold,30
+2012,Summer,Rio,Wrestling,Event_9,Yuzuru Hanyu,Male,Japan,Gold,24
+2020,Summer,Rio,Badminton,Event_1,Wayde van Niekerk,Male,India,Silver,33
+2016,Summer,Rio,Boxing,Event_8,Neeraj Chopra,Male,China,Bronze,32
+2020,Summer,Rio,Swimming,Event_12,Yuzuru Hanyu,Female,USA,Gold,34
+2016,Summer,Tokyo,Boxing,Event_3,Michael Phelps,Female,Japan,Gold,19
+2016,Summer,London,Badminton,Event_2,Caeleb Dressel,Male,India,Silver,23
+2020,Summer,Beijing,Gymnastics,Event_9,Caeleb Dressel,Female,China,Bronze,30
+2008,Summer,Beijing,Boxing,Event_7,Caeleb Dressel,Female,China,Bronze,29
+2008,Summer,Beijing,Athletics,Event_12,Neeraj Chopra,Female,India,Gold,28
+2020,Summer,Tokyo,Swimming,Event_18,Sushil Kumar,Female,Japan,Silver,21
+2020,Summer,Beijing,Badminton,Event_17,Yuzuru Hanyu,Male,China,Bronze,33
+2016,Summer,Beijing,Gymnastics,Event_15,Mirabai Chanu,Female,Japan,Bronze,29
+2012,Summer,Rio,Swimming,Event_13,P V Sindhu,Male,Jamaica,Bronze,35
+2008,Summer,Tokyo,Athletics,Event_19,Neeraj Chopra,Female,UK,Bronze,27
+2020,Summer,Tokyo,Wrestling,Event_4,Simone Biles,Male,USA,Bronze,18
+2012,Summer,Beijing,Athletics,Event_13,Simone Biles,Female,Jamaica,Gold,30
+2020,Summer,Tokyo,Wrestling,Event_8,Mirabai Chanu,Male,USA,Bronze,33
+2012,Summer,Rio,Badminton,Event_17,Serena Williams,Female,USA,Bronze,32
+2012,Summer,London,Swimming,Event_18,Simone Biles,Male,India,Bronze,28
+2020,Summer,Tokyo,Swimming,Event_3,Simone Biles,Female,Jamaica,Gold,20
+2012,Summer,Beijing,Boxing,Event_1,Yuzuru Hanyu,Male,Australia,Silver,28
+2016,Summer,London,Swimming,Event_20,Neeraj Chopra,Male,USA,Bronze,27
+2020,Summer,London,Gymnastics,Event_4,Wayde van Niekerk,Male,UK,Gold,28
+2016,Summer,Rio,Athletics,Event_14,Wayde van Niekerk,Female,UK,Bronze,26
+2012,Summer,Tokyo,Boxing,Event_1,Sushil Kumar,Male,Jamaica,Gold,24
+2016,Summer,London,Gymnastics,Event_10,Wayde van Niekerk,Female,Australia,Silver,29
+2008,Summer,Rio,Swimming,Event_19,Wayde van Niekerk,Female,UK,Silver,22
+2012,Summer,Rio,Badminton,Event_7,Neeraj Chopra,Male,Japan,Gold,24
+2016,Summer,Tokyo,Badminton,Event_8,Mirabai Chanu,Female,USA,Bronze,29
+2016,Summer,Beijing,Gymnastics,Event_2,Neeraj Chopra,Male,Japan,Gold,32
+2012,Summer,Tokyo,Gymnastics,Event_10,Serena Williams,Female,India,Gold,35
+2008,Summer,Tokyo,Wrestling,Event_2,P V Sindhu,Female,Jamaica,Gold,35
+2008,Summer,Tokyo,Wrestling,Event_2,P V Sindhu,Female,Australia,Silver,30
+2020,Summer,London,Badminton,Event_13,Mary Kom,Male,India,Bronze,22
+2016,Summer,Rio,Athletics,Event_17,Usain Bolt,Male,Japan,Bronze,21
+2020,Summer,Beijing,Boxing,Event_12,Mary Kom,Male,USA,Silver,18
+2008,Summer,London,Athletics,Event_1,Mirabai Chanu,Female,UK,Silver,29
+2008,Summer,London,Swimming,Event_20,Michael Phelps,Female,Australia,Silver,33
+2012,Summer,Tokyo,Swimming,Event_18,Simone Biles,Female,India,Silver,18
+2016,Summer,Tokyo,Badminton,Event_12,Usain Bolt,Male,USA,Bronze,28
+2020,Summer,Rio,Gymnastics,Event_8,Neeraj Chopra,Male,USA,Bronze,20
+2008,Summer,Beijing,Wrestling,Event_1,Usain Bolt,Female,Jamaica,Silver,33
+2020,Summer,London,Wrestling,Event_13,Sushil Kumar,Female,India,Gold,23
+2012,Summer,Rio,Swimming,Event_2,Serena Williams,Female,USA,Bronze,33
+2008,Summer,Tokyo,Gymnastics,Event_17,Serena Williams,Male,USA,Silver,26
+2020,Summer,Beijing,Swimming,Event_4,Serena Williams,Male,USA,Gold,20
+2012,Summer,London,Athletics,Event_1,Mirabai Chanu,Male,Jamaica,Silver,23
+2016,Summer,Tokyo,Badminton,Event_7,Wayde van Niekerk,Female,Japan,Silver,31
+2012,Summer,London,Wrestling,Event_1,Sushil Kumar,Male,India,Silver,33
+2020,Summer,Rio,Wrestling,Event_6,Neeraj Chopra,Male,Jamaica,Silver,23
+2020,Summer,Rio,Swimming,Event_1,Simone Biles,Female,Japan,Gold,23
+2008,Summer,Beijing,Swimming,Event_14,Yuzuru Hanyu,Male,Japan,Gold,33
+2020,Summer,Tokyo,Gymnastics,Event_1,Caeleb Dressel,Male,India,Bronze,35
+2008,Summer,London,Gymnastics,Event_13,Simone Biles,Male,USA,Bronze,29
+2020,Summer,Tokyo,Athletics,Event_1,P V Sindhu,Male,UK,Gold,18
+2012,Summer,London,Boxing,Event_13,Mary Kom,Male,Jamaica,Bronze,34
+2012,Summer,Beijing,Athletics,Event_9,P V Sindhu,Male,Japan,Gold,31
+2020,Summer,Beijing,Badminton,Event_18,P V Sindhu,Female,India,Silver,31
+2012,Summer,Tokyo,Athletics,Event_17,Yuzuru Hanyu,Female,USA,Bronze,22
+2012,Summer,Beijing,Badminton,Event_5,P V Sindhu,Female,Australia,Silver,26
+2012,Summer,London,Boxing,Event_8,Usain Bolt,Female,Jamaica,Bronze,25
+2016,Summer,Tokyo,Gymnastics,Event_16,Mirabai Chanu,Female,Australia,Gold,19
+2020,Summer,Rio,Wrestling,Event_8,Simone Biles,Male,Jamaica,Silver,21
+2020,Summer,Tokyo,Wrestling,Event_6,Sushil Kumar,Male,Japan,Gold,22
+2012,Summer,Beijing,Gymnastics,Event_4,Mirabai Chanu,Male,India,Bronze,32
+2016,Summer,London,Wrestling,Event_4,Simone Biles,Male,Australia,Gold,30
+2008,Summer,Beijing,Athletics,Event_11,Michael Phelps,Female,India,Bronze,23
+2020,Summer,London,Wrestling,Event_15,Usain Bolt,Female,Jamaica,Silver,22
+2020,Summer,Beijing,Badminton,Event_16,Yuzuru Hanyu,Female,UK,Gold,35
+2016,Summer,Tokyo,Gymnastics,Event_12,Mary Kom,Female,China,Bronze,29
+2008,Summer,Beijing,Gymnastics,Event_12,Michael Phelps,Male,USA,Bronze,31
+2016,Summer,Tokyo,Athletics,Event_10,Wayde van Niekerk,Male,India,Silver,25
+2016,Summer,Beijing,Athletics,Event_19,Serena Williams,Male,India,Bronze,19
+2020,Summer,Tokyo,Swimming,Event_9,Usain Bolt,Female,Japan,Silver,23
+2016,Summer,Rio,Athletics,Event_5,Neeraj Chopra,Male,India,Bronze,26
+2020,Summer,London,Gymnastics,Event_5,Mirabai Chanu,Male,India,Silver,19
+2020,Summer,Rio,Gymnastics,Event_18,Serena Williams,Male,Japan,Bronze,18
+2020,Summer,Beijing,Wrestling,Event_19,Wayde van Niekerk,Female,Australia,Silver,35
+2012,Summer,Beijing,Boxing,Event_17,Sushil Kumar,Male,UK,Bronze,23
+2020,Summer,London,Athletics,Event_5,Sushil Kumar,Female,India,Gold,20
+2012,Summer,Rio,Athletics,Event_10,Wayde van Niekerk,Male,China,Gold,28
+2012,Summer,Beijing,Gymnastics,Event_13,Michael Phelps,Male,Australia,Gold,35
+2016,Summer,Beijing,Swimming,Event_14,Caeleb Dressel,Female,Jamaica,Silver,31
+2008,Summer,London,Badminton,Event_8,Mirabai Chanu,Female,Japan,Bronze,30
+2016,Summer,Tokyo,Badminton,Event_16,Sushil Kumar,Male,Australia,Bronze,31
+2008,Summer,London,Wrestling,Event_14,Sushil Kumar,Female,Jamaica,Silver,23
+2016,Summer,Rio,Wrestling,Event_2,Usain Bolt,Male,Japan,Silver,32
+2012,Summer,London,Badminton,Event_12,P V Sindhu,Male,Jamaica,Gold,30
+2020,Summer,Tokyo,Gymnastics,Event_11,Neeraj Chopra,Female,UK,Silver,26
+2012,Summer,Beijing,Badminton,Event_19,Neeraj Chopra,Female,China,Bronze,32
+2012,Summer,Rio,Boxing,Event_13,Wayde van Niekerk,Female,USA,Bronze,23
+2020,Summer,Beijing,Athletics,Event_4,Sushil Kumar,Female,USA,Bronze,22
+2008,Summer,Beijing,Boxing,Event_15,Mirabai Chanu,Female,China,Gold,20
+2008,Summer,Tokyo,Wrestling,Event_7,Yuzuru Hanyu,Male,UK,Bronze,20
+2008,Summer,Tokyo,Badminton,Event_14,Neeraj Chopra,Female,India,Silver,33
+2008,Summer,Rio,Badminton,Event_12,P V Sindhu,Female,China,Silver,33
+2020,Summer,Tokyo,Swimming,Event_13,Neeraj Chopra,Male,Japan,Silver,18
+2008,Summer,Tokyo,Gymnastics,Event_10,Mary Kom,Male,Japan,Silver,35
+2012,Summer,London,Swimming,Event_11,Mirabai Chanu,Female,India,Gold,26
+2016,Summer,Rio,Athletics,Event_20,Simone Biles,Male,China,Gold,29
+2008,Summer,Tokyo,Badminton,Event_11,Usain Bolt,Female,Jamaica,Silver,23
+2016,Summer,Rio,Gymnastics,Event_5,Simone Biles,Male,India,Gold,30
+2012,Summer,Tokyo,Swimming,Event_1,Michael Phelps,Male,UK,Bronze,34
+2016,Summer,Rio,Athletics,Event_12,Sushil Kumar,Male,Japan,Bronze,35
+2016,Summer,Beijing,Badminton,Event_2,Wayde van Niekerk,Female,USA,Bronze,31
+2012,Summer,London,Boxing,Event_11,Wayde van Niekerk,Female,India,Silver,21
+2016,Summer,London,Boxing,Event_9,Usain Bolt,Female,Australia,Gold,34
+2016,Summer,Rio,Wrestling,Event_2,Usain Bolt,Female,UK,Silver,19
+2020,Summer,Rio,Boxing,Event_5,Yuzuru Hanyu,Male,UK,Gold,18
+2008,Summer,Tokyo,Athletics,Event_15,Michael Phelps,Female,Japan,Silver,21
+2020,Summer,Rio,Gymnastics,Event_16,Mirabai Chanu,Male,Jamaica,Silver,29
+2020,Summer,Tokyo,Boxing,Event_5,P V Sindhu,Male,USA,Bronze,18
+2020,Summer,London,Badminton,Event_9,Neeraj Chopra,Female,China,Silver,29
+2016,Summer,Tokyo,Wrestling,Event_15,Caeleb Dressel,Male,Jamaica,Gold,27
+2012,Summer,London,Athletics,Event_6,Neeraj Chopra,Male,USA,Gold,25
+2016,Summer,Tokyo,Boxing,Event_3,Michael Phelps,Female,China,Bronze,29
+2012,Summer,Beijing,Swimming,Event_17,Caeleb Dressel,Male,USA,Silver,28
+2020,Summer,Beijing,Athletics,Event_20,Serena Williams,Male,USA,Silver,20
+2012,Summer,Beijing,Athletics,Event_20,Mirabai Chanu,Female,China,Silver,20
+2020,Summer,Beijing,Badminton,Event_13,Sushil Kumar,Male,USA,Bronze,21
+2020,Summer,Beijing,Athletics,Event_1,Serena Williams,Female,Australia,Silver,32
+2020,Summer,Rio,Swimming,Event_11,Sushil Kumar,Female,Japan,Gold,23
+2012,Summer,Rio,Wrestling,Event_10,Usain Bolt,Female,UK,Gold,18
+2012,Summer,London,Gymnastics,Event_8,Caeleb Dressel,Male,Japan,Bronze,23
+2008,Summer,Rio,Athletics,Event_16,Sushil Kumar,Female,Australia,Bronze,23
+2012,Summer,Beijing,Badminton,Event_7,Mary Kom,Male,Australia,Silver,27
+2012,Summer,Tokyo,Gymnastics,Event_5,Serena Williams,Male,UK,Gold,30
+2016,Summer,London,Badminton,Event_12,Usain Bolt,Female,Australia,Bronze,33
+2016,Summer,Beijing,Swimming,Event_8,Sushil Kumar,Male,China,Silver,25
+2008,Summer,Beijing,Boxing,Event_16,Serena Williams,Male,Japan,Silver,18
+2008,Summer,London,Gymnastics,Event_6,Caeleb Dressel,Male,USA,Silver,32
+2016,Summer,London,Athletics,Event_3,Caeleb Dressel,Female,Jamaica,Gold,22
+2008,Summer,Beijing,Boxing,Event_14,Sushil Kumar,Male,Japan,Silver,29
+2012,Summer,Tokyo,Boxing,Event_9,Mirabai Chanu,Female,Australia,Gold,26
+2016,Summer,Beijing,Swimming,Event_8,Sushil Kumar,Male,Jamaica,Bronze,19
+2016,Summer,London,Wrestling,Event_14,Mary Kom,Male,Japan,Gold,22
+2020,Summer,London,Boxing,Event_12,Mary Kom,Male,Australia,Gold,29
+2020,Summer,London,Swimming,Event_19,Michael Phelps,Female,Jamaica,Gold,34
+2012,Summer,London,Badminton,Event_3,Mary Kom,Female,China,Gold,28
+2008,Summer,Tokyo,Athletics,Event_19,P V Sindhu,Female,China,Silver,30
+2020,Summer,Rio,Wrestling,Event_8,Serena Williams,Male,Australia,Silver,21
+2016,Summer,Beijing,Gymnastics,Event_1,Caeleb Dressel,Male,USA,Bronze,23
+2020,Summer,Beijing,Gymnastics,Event_5,Neeraj Chopra,Male,Jamaica,Gold,23
+2020,Summer,London,Boxing,Event_5,Usain Bolt,Male,India,Silver,19
+2016,Summer,London,Swimming,Event_4,Michael Phelps,Female,China,Gold,22
+2008,Summer,Rio,Badminton,Event_18,Caeleb Dressel,Male,China,Silver,31
+2008,Summer,Tokyo,Wrestling,Event_2,Simone Biles,Female,Jamaica,Silver,30
+2016,Summer,Rio,Boxing,Event_4,Caeleb Dressel,Female,Japan,Gold,34
+2020,Summer,Beijing,Gymnastics,Event_9,Simone Biles,Male,UK,Gold,34
+2008,Summer,London,Boxing,Event_4,Caeleb Dressel,Male,UK,Gold,19
+2020,Summer,London,Gymnastics,Event_5,Sushil Kumar,Male,USA,Silver,31
+2012,Summer,Beijing,Wrestling,Event_7,Caeleb Dressel,Female,India,Silver,26
+2012,Summer,Rio,Gymnastics,Event_11,P V Sindhu,Male,China,Gold,24
+2016,Summer,Tokyo,Wrestling,Event_4,Usain Bolt,Male,Jamaica,Silver,30
+2012,Summer,Beijing,Athletics,Event_3,P V Sindhu,Female,Japan,Silver,29
+2020,Summer,London,Badminton,Event_3,Wayde van Niekerk,Female,Jamaica,Bronze,25
+2016,Summer,London,Athletics,Event_16,Serena Williams,Male,Japan,Gold,33
+2020,Summer,Beijing,Gymnastics,Event_10,Simone Biles,Male,China,Gold,30
+2020,Summer,Beijing,Boxing,Event_16,P V Sindhu,Male,Japan,Bronze,19
+2008,Summer,Beijing,Wrestling,Event_12,Yuzuru Hanyu,Female,Japan,Bronze,27
+2008,Summer,London,Swimming,Event_12,P V Sindhu,Male,Japan,Gold,33
+2012,Summer,Tokyo,Wrestling,Event_20,Caeleb Dressel,Male,USA,Gold,32
+2008,Summer,Tokyo,Athletics,Event_12,Sushil Kumar,Male,Jamaica,Bronze,26
+2012,Summer,Rio,Swimming,Event_20,Mary Kom,Male,USA,Gold,23
+2016,Summer,Beijing,Gymnastics,Event_5,Michael Phelps,Female,India,Gold,34
+2012,Summer,Beijing,Badminton,Event_1,Sushil Kumar,Female,India,Gold,32
+2016,Summer,Rio,Gymnastics,Event_12,Serena Williams,Female,USA,Gold,24
+2016,Summer,Tokyo,Gymnastics,Event_10,Mirabai Chanu,Female,Japan,Bronze,18
+2016,Summer,Rio,Gymnastics,Event_5,Mary Kom,Female,Japan,Gold,26
+2008,Summer,London,Boxing,Event_8,Wayde van Niekerk,Female,Australia,Bronze,20
+2012,Summer,Rio,Badminton,Event_12,Neeraj Chopra,Female,India,Bronze,22
+2020,Summer,London,Athletics,Event_19,P V Sindhu,Male,Japan,Silver,24
+2012,Summer,Tokyo,Athletics,Event_15,Usain Bolt,Female,Australia,Silver,19
+2012,Summer,Beijing,Swimming,Event_14,P V Sindhu,Female,UK,Gold,23
+2020,Summer,Beijing,Boxing,Event_9,Serena Williams,Male,USA,Bronze,22
+2008,Summer,London,Gymnastics,Event_18,Usain Bolt,Male,Australia,Bronze,33
+2008,Summer,London,Wrestling,Event_15,Wayde van Niekerk,Female,USA,Bronze,27
+2012,Summer,London,Badminton,Event_1,Mary Kom,Male,India,Silver,25
+2016,Summer,Tokyo,Badminton,Event_2,Mirabai Chanu,Male,China,Bronze,19
+2020,Summer,London,Wrestling,Event_9,Michael Phelps,Male,Australia,Bronze,18
+2020,Summer,London,Gymnastics,Event_12,P V Sindhu,Female,Jamaica,Bronze,20
+2008,Summer,London,Boxing,Event_18,Serena Williams,Male,USA,Silver,23
+2020,Summer,London,Gymnastics,Event_18,Caeleb Dressel,Female,Jamaica,Silver,23
+2008,Summer,Beijing,Boxing,Event_2,Usain Bolt,Male,USA,Bronze,21
+2012,Summer,London,Boxing,Event_8,Caeleb Dressel,Female,Japan,Silver,25
+2008,Summer,Rio,Wrestling,Event_16,Caeleb Dressel,Female,Australia,Silver,33
+2012,Summer,London,Wrestling,Event_10,Simone Biles,Male,UK,Gold,20
+2016,Summer,Rio,Gymnastics,Event_1,Mary Kom,Male,Australia,Silver,19
+2008,Summer,Beijing,Swimming,Event_8,Yuzuru Hanyu,Female,USA,Gold,34
+2012,Summer,Rio,Gymnastics,Event_9,Neeraj Chopra,Female,USA,Bronze,19
+2016,Summer,Tokyo,Wrestling,Event_11,Serena Williams,Male,Japan,Silver,18
+2012,Summer,Tokyo,Boxing,Event_10,Caeleb Dressel,Male,China,Bronze,33
+2008,Summer,Beijing,Boxing,Event_6,Mary Kom,Female,China,Silver,34
+2012,Summer,London,Wrestling,Event_1,Michael Phelps,Female,Jamaica,Bronze,25
+2012,Summer,Tokyo,Swimming,Event_5,Simone Biles,Female,Japan,Silver,25
+2008,Summer,Beijing,Badminton,Event_20,Mary Kom,Female,USA,Gold,18
+2012,Summer,Tokyo,Wrestling,Event_4,Serena Williams,Female,Jamaica,Silver,25
+2008,Summer,Beijing,Wrestling,Event_12,Usain Bolt,Male,UK,Gold,30
+2020,Summer,Beijing,Athletics,Event_8,P V Sindhu,Male,USA,Gold,33
+2020,Summer,Rio,Wrestling,Event_14,Mary Kom,Female,China,Silver,35
+2020,Summer,Beijing,Swimming,Event_12,Sushil Kumar,Female,Jamaica,Silver,26
+2012,Summer,Tokyo,Swimming,Event_15,Sushil Kumar,Female,Japan,Bronze,34
+2020,Summer,Rio,Badminton,Event_12,Sushil Kumar,Female,Japan,Silver,34
+2008,Summer,Tokyo,Gymnastics,Event_14,Caeleb Dressel,Female,Japan,Silver,18
+2012,Summer,Beijing,Athletics,Event_8,Usain Bolt,Female,India,Bronze,19
+2008,Summer,Beijing,Badminton,Event_18,Mirabai Chanu,Male,India,Gold,33
+2012,Summer,London,Gymnastics,Event_12,Usain Bolt,Male,Jamaica,Bronze,29
+2016,Summer,Tokyo,Athletics,Event_14,P V Sindhu,Female,USA,Bronze,19
+2012,Summer,London,Athletics,Event_18,Usain Bolt,Male,USA,Gold,26
+2016,Summer,Rio,Athletics,Event_2,Wayde van Niekerk,Male,India,Silver,35
+2008,Summer,Tokyo,Badminton,Event_11,Usain Bolt,Female,India,Bronze,21
+2012,Summer,Tokyo,Athletics,Event_12,Sushil Kumar,Female,Japan,Gold,31
+2012,Summer,Beijing,Badminton,Event_19,P V Sindhu,Female,India,Silver,19
+2020,Summer,Beijing,Wrestling,Event_5,Serena Williams,Female,India,Gold,18
+2008,Summer,Beijing,Boxing,Event_17,Usain Bolt,Male,China,Silver,35
+2008,Summer,Tokyo,Swimming,Event_11,Wayde van Niekerk,Female,Japan,Bronze,34
+2020,Summer,Rio,Swimming,Event_9,Mirabai Chanu,Male,UK,Gold,28
+2008,Summer,Beijing,Athletics,Event_8,Mary Kom,Male,USA,Bronze,27
+2020,Summer,Rio,Athletics,Event_1,Mirabai Chanu,Female,USA,Gold,25
+2012,Summer,London,Wrestling,Event_10,Usain Bolt,Male,USA,Gold,30
+2016,Summer,Tokyo,Athletics,Event_17,Sushil Kumar,Female,Jamaica,Silver,28
+2020,Summer,Beijing,Swimming,Event_4,Neeraj Chopra,Female,USA,Silver,27
+2020,Summer,Rio,Swimming,Event_15,Caeleb Dressel,Male,Australia,Gold,31
+2016,Summer,Beijing,Gymnastics,Event_8,Sushil Kumar,Male,USA,Bronze,24
+2016,Summer,London,Swimming,Event_18,Neeraj Chopra,Female,USA,Bronze,23
+2008,Summer,Rio,Athletics,Event_11,Sushil Kumar,Female,Japan,Gold,34
+2012,Summer,Rio,Wrestling,Event_12,Michael Phelps,Female,UK,Silver,24
+2020,Summer,Tokyo,Boxing,Event_10,Mary Kom,Male,Jamaica,Bronze,34
+2016,Summer,Beijing,Athletics,Event_13,P V Sindhu,Male,Australia,Gold,32
+2016,Summer,London,Gymnastics,Event_6,Wayde van Niekerk,Female,China,Silver,25
+2016,Summer,Tokyo,Gymnastics,Event_8,Serena Williams,Male,Japan,Silver,23
+2020,Summer,Rio,Badminton,Event_16,Mirabai Chanu,Male,Jamaica,Gold,23
+2008,Summer,London,Athletics,Event_15,Usain Bolt,Male,USA,Bronze,34
+2016,Summer,Rio,Boxing,Event_4,Serena Williams,Female,India,Silver,28
+2016,Summer,Tokyo,Gymnastics,Event_16,P V Sindhu,Male,UK,Gold,20
+2020,Summer,Tokyo,Boxing,Event_13,Sushil Kumar,Male,Japan,Silver,23
+2016,Summer,Rio,Athletics,Event_12,Neeraj Chopra,Female,India,Bronze,19
+2012,Summer,Tokyo,Swimming,Event_19,Sushil Kumar,Male,Jamaica,Silver,20
+2012,Summer,Tokyo,Wrestling,Event_3,Michael Phelps,Male,India,Silver,32
+2012,Summer,Tokyo,Badminton,Event_6,Usain Bolt,Female,Jamaica,Silver,26
+2012,Summer,Beijing,Badminton,Event_11,Serena Williams,Female,Jamaica,Gold,28
+2020,Summer,Tokyo,Wrestling,Event_15,P V Sindhu,Male,India,Bronze,19
+2020,Summer,London,Wrestling,Event_1,Serena Williams,Female,Japan,Bronze,23
+2008,Summer,Rio,Athletics,Event_5,Caeleb Dressel,Male,Jamaica,Bronze,29
+2016,Summer,Rio,Badminton,Event_3,Neeraj Chopra,Female,Japan,Silver,24
+2016,Summer,Tokyo,Wrestling,Event_1,Caeleb Dressel,Female,Australia,Bronze,28
+2016,Summer,Rio,Gymnastics,Event_15,Wayde van Niekerk,Female,Japan,Gold,30
+2020,Summer,Beijing,Wrestling,Event_3,Mary Kom,Female,USA,Gold,34
+2016,Summer,London,Swimming,Event_14,Mirabai Chanu,Female,UK,Silver,22
+2012,Summer,Rio,Gymnastics,Event_1,Usain Bolt,Female,USA,Gold,31
+2020,Summer,Beijing,Gymnastics,Event_12,Neeraj Chopra,Male,Jamaica,Bronze,22
+2016,Summer,London,Badminton,Event_7,Neeraj Chopra,Female,India,Gold,32
+2012,Summer,Tokyo,Wrestling,Event_19,Usain Bolt,Male,China,Silver,35
+2016,Summer,London,Wrestling,Event_13,Mary Kom,Male,Australia,Bronze,24
+2016,Summer,London,Boxing,Event_18,Yuzuru Hanyu,Male,Australia,Bronze,30
+2012,Summer,Tokyo,Badminton,Event_6,Wayde van Niekerk,Female,China,Gold,26
+2020,Summer,Beijing,Wrestling,Event_11,Yuzuru Hanyu,Female,India,Gold,18
+2020,Summer,Rio,Athletics,Event_11,Serena Williams,Male,Jamaica,Gold,25
+2016,Summer,Beijing,Swimming,Event_12,Yuzuru Hanyu,Male,USA,Bronze,19
+2020,Summer,London,Swimming,Event_20,Mirabai Chanu,Male,UK,Silver,32
+2016,Summer,Rio,Boxing,Event_16,P V Sindhu,Female,USA,Gold,24
+2012,Summer,London,Badminton,Event_4,P V Sindhu,Female,Jamaica,Bronze,22
+2020,Summer,Rio,Badminton,Event_16,Sushil Kumar,Female,India,Gold,24
+2012,Summer,Tokyo,Boxing,Event_3,Caeleb Dressel,Female,Jamaica,Silver,33
+2012,Summer,Beijing,Gymnastics,Event_9,Simone Biles,Male,Jamaica,Gold,19
+2008,Summer,London,Boxing,Event_10,Simone Biles,Female,China,Silver,28
+2008,Summer,Beijing,Boxing,Event_12,Serena Williams,Male,Jamaica,Silver,31
+2016,Summer,Tokyo,Gymnastics,Event_3,Caeleb Dressel,Male,UK,Gold,20
+2008,Summer,Beijing,Wrestling,Event_13,Serena Williams,Female,Australia,Silver,20
+2012,Summer,Rio,Swimming,Event_18,Simone Biles,Male,Jamaica,Gold,23
+2008,Summer,Beijing,Boxing,Event_15,Serena Williams,Male,Jamaica,Bronze,32
+2008,Summer,London,Wrestling,Event_15,Wayde van Niekerk,Male,Australia,Silver,25
+2012,Summer,London,Swimming,Event_1,Mary Kom,Female,China,Silver,28
+2016,Summer,Rio,Athletics,Event_11,Mirabai Chanu,Female,Australia,Silver,35
+2016,Summer,Beijing,Athletics,Event_13,Yuzuru Hanyu,Male,UK,Silver,21
+2012,Summer,Beijing,Athletics,Event_5,Yuzuru Hanyu,Male,India,Gold,31
+2016,Summer,Tokyo,Badminton,Event_9,Wayde van Niekerk,Male,India,Silver,18
+2008,Summer,London,Badminton,Event_12,Wayde van Niekerk,Female,UK,Gold,32
+2008,Summer,Tokyo,Wrestling,Event_15,Wayde van Niekerk,Male,India,Silver,23
+2008,Summer,Rio,Badminton,Event_3,Simone Biles,Male,China,Gold,25
+2016,Summer,London,Boxing,Event_18,Serena Williams,Female,UK,Silver,19
+2016,Summer,Beijing,Swimming,Event_18,Mirabai Chanu,Female,Jamaica,Gold,25
+2012,Summer,Rio,Badminton,Event_10,Neeraj Chopra,Female,Australia,Silver,35
+2020,Summer,Tokyo,Boxing,Event_6,Serena Williams,Female,USA,Silver,20
+2020,Summer,Rio,Swimming,Event_17,Mirabai Chanu,Male,Jamaica,Bronze,29
+2020,Summer,Beijing,Wrestling,Event_12,Sushil Kumar,Female,Japan,Bronze,27
+2008,Summer,Beijing,Swimming,Event_17,Caeleb Dressel,Male,Jamaica,Silver,33
+2008,Summer,Rio,Boxing,Event_16,Mirabai Chanu,Male,Jamaica,Bronze,26
+2016,Summer,London,Swimming,Event_3,Usain Bolt,Female,USA,Gold,35
+2016,Summer,Rio,Boxing,Event_4,Serena Williams,Female,Australia,Silver,21
+2008,Summer,Beijing,Wrestling,Event_11,Michael Phelps,Male,India,Bronze,26
+2012,Summer,London,Swimming,Event_20,Mary Kom,Male,China,Gold,19
+2012,Summer,Rio,Swimming,Event_4,Wayde van Niekerk,Male,India,Gold,20
+2020,Summer,Beijing,Wrestling,Event_1,Wayde van Niekerk,Male,India,Gold,19
+2020,Summer,Tokyo,Swimming,Event_11,Sushil Kumar,Male,China,Gold,20
+2016,Summer,London,Badminton,Event_15,Sushil Kumar,Male,Japan,Gold,35
+2008,Summer,London,Wrestling,Event_2,Usain Bolt,Female,USA,Silver,32
+2008,Summer,Rio,Athletics,Event_15,Serena Williams,Male,UK,Gold,20
+2020,Summer,Rio,Athletics,Event_5,Caeleb Dressel,Male,USA,Bronze,20
+2016,Summer,London,Athletics,Event_19,Yuzuru Hanyu,Female,Australia,Gold,21
+2012,Summer,Rio,Gymnastics,Event_20,Serena Williams,Female,India,Gold,19
+2008,Summer,Tokyo,Wrestling,Event_14,P V Sindhu,Male,Japan,Bronze,33
+2020,Summer,London,Boxing,Event_16,Mary Kom,Female,Australia,Gold,28
+2016,Summer,London,Athletics,Event_11,Usain Bolt,Female,Jamaica,Gold,35
+2012,Summer,Tokyo,Swimming,Event_3,Mirabai Chanu,Female,Australia,Gold,19
+2008,Summer,Tokyo,Gymnastics,Event_14,Mirabai Chanu,Female,Jamaica,Silver,23
+2020,Summer,Tokyo,Wrestling,Event_16,Sushil Kumar,Female,Japan,Bronze,23
+2008,Summer,Beijing,Wrestling,Event_1,Simone Biles,Female,China,Silver,21
+2012,Summer,Beijing,Gymnastics,Event_11,Usain Bolt,Male,Jamaica,Silver,24
+2020,Summer,Beijing,Gymnastics,Event_5,P V Sindhu,Female,UK,Gold,22
+2016,Summer,London,Badminton,Event_15,Yuzuru Hanyu,Male,Australia,Gold,18
+2016,Summer,Rio,Badminton,Event_9,Simone Biles,Male,China,Bronze,29
+2008,Summer,Tokyo,Boxing,Event_8,Michael Phelps,Male,UK,Silver,23
+2008,Summer,London,Wrestling,Event_13,Mirabai Chanu,Female,Jamaica,Silver,26
+2008,Summer,Beijing,Athletics,Event_1,Sushil Kumar,Male,Jamaica,Silver,33
+2016,Summer,Rio,Gymnastics,Event_10,Mary Kom,Female,UK,Silver,23
+2012,Summer,London,Badminton,Event_12,Yuzuru Hanyu,Female,Japan,Gold,31
+2012,Summer,Beijing,Gymnastics,Event_15,Mirabai Chanu,Male,Japan,Gold,26
+2016,Summer,Rio,Badminton,Event_17,Yuzuru Hanyu,Female,Japan,Silver,26
+2008,Summer,Tokyo,Swimming,Event_7,Mary Kom,Male,Japan,Gold,23
+2008,Summer,London,Badminton,Event_18,Michael Phelps,Male,USA,Bronze,21
+2012,Summer,Tokyo,Athletics,Event_13,Wayde van Niekerk,Male,Jamaica,Bronze,19
+2008,Summer,Rio,Boxing,Event_17,Simone Biles,Female,USA,Gold,23
+2012,Summer,London,Swimming,Event_2,Wayde van Niekerk,Male,USA,Gold,24
+2020,Summer,Beijing,Badminton,Event_20,Simone Biles,Female,USA,Bronze,23
+2012,Summer,Rio,Gymnastics,Event_9,Serena Williams,Female,Japan,Bronze,31
+2016,Summer,Tokyo,Wrestling,Event_15,Mirabai Chanu,Female,China,Bronze,28
+2008,Summer,London,Athletics,Event_4,Mary Kom,Male,Jamaica,Gold,29
+2012,Summer,London,Boxing,Event_6,Caeleb Dressel,Female,Japan,Bronze,25
+2016,Summer,Rio,Wrestling,Event_18,Sushil Kumar,Male,India,Bronze,23
+2016,Summer,Beijing,Athletics,Event_16,P V Sindhu,Male,China,Bronze,34
+2012,Summer,London,Wrestling,Event_14,P V Sindhu,Male,USA,Bronze,27
+2012,Summer,Beijing,Gymnastics,Event_8,Mary Kom,Male,Jamaica,Bronze,31
+2008,Summer,Beijing,Wrestling,Event_4,Yuzuru Hanyu,Male,Jamaica,Bronze,20
+2020,Summer,Rio,Boxing,Event_8,Usain Bolt,Female,India,Gold,30
+2008,Summer,London,Badminton,Event_3,Usain Bolt,Male,India,Silver,30
+2016,Summer,Beijing,Swimming,Event_13,Mary Kom,Female,USA,Gold,19
+2016,Summer,Beijing,Swimming,Event_14,Mary Kom,Male,China,Gold,18
+2012,Summer,Beijing,Swimming,Event_16,Mirabai Chanu,Male,Japan,Silver,25
+2020,Summer,London,Badminton,Event_15,Neeraj Chopra,Female,UK,Gold,27
+2008,Summer,Beijing,Athletics,Event_4,P V Sindhu,Female,Japan,Silver,32
+2012,Summer,Beijing,Wrestling,Event_11,P V Sindhu,Female,Jamaica,Gold,28
+2020,Summer,Tokyo,Swimming,Event_7,Neeraj Chopra,Male,Jamaica,Bronze,25
+2012,Summer,London,Badminton,Event_13,Usain Bolt,Female,Japan,Bronze,21
+2008,Summer,London,Badminton,Event_16,Neeraj Chopra,Male,UK,Bronze,21
+2016,Summer,London,Gymnastics,Event_4,Usain Bolt,Female,UK,Gold,24
+2012,Summer,London,Boxing,Event_3,P V Sindhu,Female,Japan,Silver,19
+2012,Summer,Rio,Swimming,Event_14,Yuzuru Hanyu,Female,China,Bronze,32
+2012,Summer,Beijing,Badminton,Event_19,Usain Bolt,Male,UK,Gold,35
+2020,Summer,Beijing,Badminton,Event_6,P V Sindhu,Female,Jamaica,Bronze,22
+2008,Summer,London,Athletics,Event_9,Sushil Kumar,Male,USA,Gold,28
+2020,Summer,Rio,Gymnastics,Event_7,Wayde van Niekerk,Female,UK,Silver,30
+2016,Summer,Rio,Athletics,Event_19,Wayde van Niekerk,Female,Japan,Silver,27
+2016,Summer,Rio,Athletics,Event_5,Simone Biles,Male,China,Gold,23
+2008,Summer,Rio,Wrestling,Event_17,Neeraj Chopra,Male,China,Gold,26
+2016,Summer,London,Badminton,Event_16,Simone Biles,Male,Japan,Silver,33
+2008,Summer,Beijing,Athletics,Event_14,Caeleb Dressel,Male,USA,Bronze,32
+2008,Summer,London,Swimming,Event_13,Caeleb Dressel,Male,China,Silver,22
+2020,Summer,Tokyo,Swimming,Event_19,P V Sindhu,Male,China,Bronze,23
+2020,Summer,Beijing,Athletics,Event_7,P V Sindhu,Female,Jamaica,Silver,29
+2012,Summer,London,Athletics,Event_10,Serena Williams,Male,UK,Gold,23
+2016,Summer,Tokyo,Wrestling,Event_6,Serena Williams,Female,Australia,Silver,22
+2020,Summer,Beijing,Wrestling,Event_14,Usain Bolt,Male,Australia,Silver,32
+2008,Summer,Rio,Boxing,Event_5,Simone Biles,Male,China,Silver,31
+2008,Summer,Rio,Athletics,Event_1,Caeleb Dressel,Female,Japan,Silver,19
+2020,Summer,Rio,Badminton,Event_1,Sushil Kumar,Male,USA,Gold,29
+2008,Summer,Beijing,Badminton,Event_8,Wayde van Niekerk,Male,UK,Silver,25
+2008,Summer,Rio,Gymnastics,Event_17,Yuzuru Hanyu,Male,USA,Silver,32
+2008,Summer,Tokyo,Boxing,Event_20,Caeleb Dressel,Female,Australia,Bronze,31
+2008,Summer,Beijing,Swimming,Event_7,Usain Bolt,Female,Australia,Silver,30
+2008,Summer,London,Boxing,Event_4,P V Sindhu,Female,Japan,Gold,32
+2020,Summer,Beijing,Athletics,Event_1,Michael Phelps,Male,USA,Silver,28
+2008,Summer,Tokyo,Gymnastics,Event_18,P V Sindhu,Female,Australia,Gold,22
+2016,Summer,Beijing,Wrestling,Event_9,Mirabai Chanu,Female,India,Gold,21
+2008,Summer,Rio,Wrestling,Event_17,Yuzuru Hanyu,Male,USA,Bronze,32
+2020,Summer,Tokyo,Wrestling,Event_17,Michael Phelps,Male,China,Gold,18
+2008,Summer,London,Boxing,Event_3,Neeraj Chopra,Female,USA,Silver,21
+2012,Summer,London,Athletics,Event_12,Usain Bolt,Female,USA,Silver,24
+2012,Summer,Tokyo,Boxing,Event_16,Usain Bolt,Female,Australia,Gold,20
+2016,Summer,London,Athletics,Event_4,P V Sindhu,Female,Jamaica,Silver,21
+2008,Summer,Beijing,Wrestling,Event_12,Caeleb Dressel,Male,India,Gold,26
+2008,Summer,London,Badminton,Event_4,Mirabai Chanu,Female,Japan,Gold,31
+2020,Summer,Tokyo,Wrestling,Event_4,P V Sindhu,Female,Jamaica,Silver,34
+2020,Summer,Tokyo,Gymnastics,Event_18,Mirabai Chanu,Female,UK,Bronze,23
+2016,Summer,Tokyo,Badminton,Event_4,Usain Bolt,Male,USA,Silver,33
+2012,Summer,Rio,Gymnastics,Event_10,Sushil Kumar,Male,USA,Bronze,32
+2012,Summer,Tokyo,Athletics,Event_13,Neeraj Chopra,Male,China,Gold,29
+2020,Summer,Rio,Wrestling,Event_5,Michael Phelps,Male,India,Silver,21
+2008,Summer,London,Boxing,Event_19,P V Sindhu,Female,Australia,Gold,25
+2016,Summer,Rio,Swimming,Event_14,Neeraj Chopra,Male,Jamaica,Gold,26
+2012,Summer,Beijing,Gymnastics,Event_12,Neeraj Chopra,Female,Jamaica,Bronze,19
+2016,Summer,Tokyo,Boxing,Event_7,Caeleb Dressel,Male,UK,Bronze,29
+2008,Summer,Beijing,Gymnastics,Event_5,Mary Kom,Female,Jamaica,Gold,25
+2020,Summer,Rio,Wrestling,Event_8,Michael Phelps,Male,USA,Gold,30
+2012,Summer,Tokyo,Gymnastics,Event_3,Michael Phelps,Female,USA,Silver,30
+2020,Summer,Rio,Wrestling,Event_12,Sushil Kumar,Female,Australia,Silver,23
+2020,Summer,Rio,Gymnastics,Event_5,Wayde van Niekerk,Female,Japan,Silver,29
+2012,Summer,Rio,Boxing,Event_12,Simone Biles,Male,Australia,Bronze,19
+2016,Summer,Rio,Gymnastics,Event_4,Wayde van Niekerk,Female,Australia,Bronze,19
+2020,Summer,Rio,Wrestling,Event_9,Caeleb Dressel,Female,Japan,Bronze,21
+2020,Summer,Tokyo,Badminton,Event_2,Neeraj Chopra,Female,Jamaica,Gold,31
+2008,Summer,London,Badminton,Event_13,Caeleb Dressel,Male,USA,Gold,22
+2012,Summer,Rio,Gymnastics,Event_20,Serena Williams,Male,India,Gold,32
+2012,Summer,Rio,Gymnastics,Event_1,Michael Phelps,Female,India,Gold,35
+2020,Summer,Beijing,Wrestling,Event_20,Mirabai Chanu,Male,USA,Silver,24
+2012,Summer,Beijing,Athletics,Event_2,Serena Williams,Male,Japan,Silver,29
+2016,Summer,Rio,Gymnastics,Event_14,Wayde van Niekerk,Female,Japan,Silver,26
+2012,Summer,Rio,Wrestling,Event_3,Caeleb Dressel,Male,Jamaica,Bronze,20
+2008,Summer,Tokyo,Athletics,Event_10,Yuzuru Hanyu,Female,Japan,Bronze,25
+2012,Summer,Rio,Swimming,Event_10,Michael Phelps,Male,Japan,Silver,24
+2008,Summer,Beijing,Gymnastics,Event_13,Neeraj Chopra,Male,China,Gold,30
+2008,Summer,Rio,Boxing,Event_12,Yuzuru Hanyu,Female,UK,Gold,33
+2020,Summer,Tokyo,Badminton,Event_9,Mary Kom,Female,China,Gold,31
+2008,Summer,Tokyo,Boxing,Event_12,Yuzuru Hanyu,Male,China,Gold,19
+2012,Summer,Rio,Gymnastics,Event_20,Simone Biles,Female,Australia,Gold,31
+2012,Summer,Rio,Gymnastics,Event_20,P V Sindhu,Male,UK,Gold,22
+2012,Summer,Rio,Wrestling,Event_6,Wayde van Niekerk,Male,UK,Bronze,22
+2016,Summer,Tokyo,Gymnastics,Event_3,Mary Kom,Male,Jamaica,Gold,26
+2016,Summer,Rio,Gymnastics,Event_5,Sushil Kumar,Female,Jamaica,Bronze,31
+2016,Summer,Rio,Athletics,Event_17,Michael Phelps,Female,Australia,Gold,33
+2012,Summer,Rio,Gymnastics,Event_8,Usain Bolt,Male,UK,Bronze,33
+2016,Summer,Tokyo,Badminton,Event_18,Neeraj Chopra,Female,India,Silver,26
+2012,Summer,Beijing,Athletics,Event_19,Serena Williams,Female,Australia,Gold,19
+2008,Summer,London,Gymnastics,Event_12,Yuzuru Hanyu,Male,USA,Silver,22
+2012,Summer,Rio,Swimming,Event_12,Mary Kom,Female,India,Gold,20
+2020,Summer,London,Athletics,Event_11,Mirabai Chanu,Female,Australia,Silver,35
+2008,Summer,Rio,Boxing,Event_16,Yuzuru Hanyu,Female,China,Silver,22
+2008,Summer,London,Badminton,Event_3,Michael Phelps,Male,India,Silver,32
+2016,Summer,Rio,Wrestling,Event_20,Sushil Kumar,Female,India,Gold,30
+2008,Summer,London,Gymnastics,Event_10,Yuzuru Hanyu,Male,USA,Gold,29
+2012,Summer,Tokyo,Swimming,Event_18,Wayde van Niekerk,Female,China,Gold,20
+2020,Summer,Beijing,Gymnastics,Event_11,Michael Phelps,Male,Jamaica,Silver,33
+2012,Summer,London,Athletics,Event_4,Simone Biles,Female,Japan,Bronze,21
+2012,Summer,Rio,Athletics,Event_12,Mirabai Chanu,Female,UK,Silver,24
+2008,Summer,Tokyo,Athletics,Event_5,Mirabai Chanu,Female,USA,Bronze,23
+2020,Summer,Tokyo,Swimming,Event_3,Neeraj Chopra,Male,USA,Bronze,32
+2008,Summer,Beijing,Badminton,Event_10,Wayde van Niekerk,Female,USA,Gold,33
+2008,Summer,Rio,Swimming,Event_20,Wayde van Niekerk,Female,Japan,Bronze,24
+2008,Summer,London,Badminton,Event_4,Sushil Kumar,Female,USA,Silver,32
+2016,Summer,London,Wrestling,Event_6,Neeraj Chopra,Female,Jamaica,Bronze,26
+2008,Summer,Rio,Swimming,Event_14,Michael Phelps,Female,USA,Bronze,35
+2020,Summer,London,Wrestling,Event_3,P V Sindhu,Female,UK,Gold,25
+2008,Summer,London,Athletics,Event_11,Neeraj Chopra,Female,Japan,Gold,35
+2008,Summer,Rio,Athletics,Event_8,P V Sindhu,Male,UK,Gold,18
+2012,Summer,London,Badminton,Event_6,Neeraj Chopra,Female,Japan,Silver,23
+2008,Summer,Tokyo,Boxing,Event_9,Simone Biles,Female,India,Bronze,23
+2016,Summer,Rio,Boxing,Event_9,Michael Phelps,Female,USA,Gold,28
+2008,Summer,London,Wrestling,Event_14,Yuzuru Hanyu,Female,India,Bronze,19
+2016,Summer,Tokyo,Swimming,Event_20,Wayde van Niekerk,Male,USA,Gold,24
+2008,Summer,Tokyo,Athletics,Event_15,Serena Williams,Female,UK,Gold,33
+2012,Summer,Rio,Wrestling,Event_9,Mirabai Chanu,Female,Japan,Bronze,30
+2008,Summer,Rio,Wrestling,Event_4,Caeleb Dressel,Male,USA,Silver,21
+2020,Summer,Rio,Gymnastics,Event_13,Wayde van Niekerk,Male,China,Bronze,24
+2012,Summer,Rio,Badminton,Event_2,Wayde van Niekerk,Female,China,Bronze,20
+2012,Summer,London,Swimming,Event_1,Usain Bolt,Male,Japan,Bronze,33
+2008,Summer,Tokyo,Gymnastics,Event_11,Usain Bolt,Male,Jamaica,Silver,34
+2012,Summer,London,Gymnastics,Event_2,Neeraj Chopra,Male,Japan,Bronze,21
+2008,Summer,Beijing,Athletics,Event_1,Michael Phelps,Female,Australia,Gold,23
+2016,Summer,Beijing,Boxing,Event_10,Wayde van Niekerk,Male,China,Bronze,18
+2012,Summer,London,Badminton,Event_9,Yuzuru Hanyu,Female,India,Bronze,28
+2008,Summer,London,Wrestling,Event_16,Michael Phelps,Female,China,Silver,34
+2016,Summer,Tokyo,Wrestling,Event_16,Mirabai Chanu,Male,Australia,Gold,20
+2020,Summer,London,Gymnastics,Event_2,Mary Kom,Female,Jamaica,Bronze,31
+2012,Summer,Rio,Athletics,Event_13,Mary Kom,Male,Australia,Gold,31
+2008,Summer,Rio,Gymnastics,Event_19,Caeleb Dressel,Female,UK,Gold,31
+2016,Summer,Rio,Gymnastics,Event_6,Caeleb Dressel,Male,India,Bronze,27
+2016,Summer,Tokyo,Swimming,Event_3,Caeleb Dressel,Male,China,Bronze,18
+2008,Summer,Rio,Swimming,Event_15,Sushil Kumar,Female,China,Gold,35
+2016,Summer,Beijing,Wrestling,Event_9,Neeraj Chopra,Female,India,Gold,29
+2012,Summer,Tokyo,Gymnastics,Event_15,Mary Kom,Female,USA,Gold,33
+2008,Summer,London,Boxing,Event_3,Neeraj Chopra,Female,China,Gold,31
+2020,Summer,London,Gymnastics,Event_13,Caeleb Dressel,Female,UK,Gold,21
+2020,Summer,Beijing,Boxing,Event_8,Sushil Kumar,Female,Japan,Gold,34
+2016,Summer,London,Gymnastics,Event_6,Sushil Kumar,Female,China,Bronze,27
+2016,Summer,London,Swimming,Event_9,Serena Williams,Female,Japan,Bronze,27
+2020,Summer,Rio,Swimming,Event_15,Serena Williams,Female,USA,Bronze,35
+2008,Summer,Beijing,Athletics,Event_2,Wayde van Niekerk,Male,Jamaica,Gold,28
+2012,Summer,Rio,Swimming,Event_5,P V Sindhu,Female,China,Gold,22
+2020,Summer,Tokyo,Athletics,Event_6,Neeraj Chopra,Female,China,Silver,20
+2012,Summer,Beijing,Badminton,Event_1,Usain Bolt,Male,Jamaica,Silver,31
+2012,Summer,London,Boxing,Event_11,P V Sindhu,Male,China,Gold,24
+2012,Summer,Rio,Badminton,Event_16,Simone Biles,Male,USA,Silver,31
+2008,Summer,Beijing,Wrestling,Event_9,Michael Phelps,Male,India,Bronze,33
+2012,Summer,London,Swimming,Event_19,Neeraj Chopra,Male,Australia,Gold,22
+2016,Summer,London,Wrestling,Event_7,Mirabai Chanu,Male,USA,Silver,30
+2008,Summer,Beijing,Gymnastics,Event_4,Serena Williams,Male,China,Gold,26
+2016,Summer,London,Gymnastics,Event_15,Michael Phelps,Female,USA,Silver,18
+2008,Summer,London,Athletics,Event_15,Caeleb Dressel,Female,India,Gold,25
+2012,Summer,Rio,Athletics,Event_6,Neeraj Chopra,Female,Japan,Gold,19
+2012,Summer,London,Boxing,Event_14,Caeleb Dressel,Male,China,Gold,33
+2016,Summer,London,Badminton,Event_2,Wayde van Niekerk,Female,UK,Silver,26
+2012,Summer,London,Swimming,Event_16,Mary Kom,Male,USA,Bronze,18
+2008,Summer,Tokyo,Badminton,Event_11,Sushil Kumar,Male,USA,Gold,32
+2008,Summer,Tokyo,Athletics,Event_11,P V Sindhu,Female,India,Silver,19
+2008,Summer,London,Athletics,Event_5,Serena Williams,Female,China,Gold,30
+2012,Summer,Tokyo,Athletics,Event_18,Sushil Kumar,Female,UK,Bronze,29
+2020,Summer,London,Swimming,Event_7,Serena Williams,Male,UK,Bronze,29
+2020,Summer,Beijing,Gymnastics,Event_20,Wayde van Niekerk,Female,Jamaica,Bronze,32
+2008,Summer,Beijing,Athletics,Event_13,Neeraj Chopra,Female,China,Gold,31
+2008,Summer,Tokyo,Wrestling,Event_3,Caeleb Dressel,Female,UK,Gold,26
+2008,Summer,Tokyo,Wrestling,Event_12,Mirabai Chanu,Male,Australia,Bronze,25
+2016,Summer,Rio,Gymnastics,Event_4,Yuzuru Hanyu,Male,India,Gold,24
+2020,Summer,Rio,Wrestling,Event_4,Wayde van Niekerk,Female,China,Bronze,33
+2008,Summer,Rio,Gymnastics,Event_9,Simone Biles,Female,UK,Silver,19
+2008,Summer,Beijing,Wrestling,Event_13,Caeleb Dressel,Female,USA,Bronze,30
+2016,Summer,Tokyo,Athletics,Event_8,P V Sindhu,Male,USA,Silver,27
+2012,Summer,Tokyo,Athletics,Event_2,Caeleb Dressel,Male,Japan,Bronze,33
+2016,Summer,Beijing,Boxing,Event_3,Michael Phelps,Male,China,Gold,34
+2008,Summer,Beijing,Boxing,Event_2,Michael Phelps,Female,USA,Silver,28
+2020,Summer,Beijing,Gymnastics,Event_5,Mary Kom,Female,China,Bronze,26
+2020,Summer,Tokyo,Wrestling,Event_6,Simone Biles,Female,Jamaica,Bronze,19
+2016,Summer,Tokyo,Athletics,Event_1,Wayde van Niekerk,Female,China,Silver,34
+2012,Summer,Tokyo,Badminton,Event_1,P V Sindhu,Male,Australia,Bronze,31
+2020,Summer,Beijing,Gymnastics,Event_5,Simone Biles,Male,Jamaica,Bronze,22
+2008,Summer,Rio,Boxing,Event_20,Yuzuru Hanyu,Male,Jamaica,Silver,31
+2020,Summer,Beijing,Athletics,Event_20,P V Sindhu,Male,USA,Bronze,27
+2012,Summer,Rio,Athletics,Event_6,Mirabai Chanu,Female,USA,Gold,29
+2016,Summer,Rio,Wrestling,Event_15,Neeraj Chopra,Male,USA,Silver,30
+2020,Summer,Tokyo,Swimming,Event_16,Simone Biles,Male,Jamaica,Gold,23
+2020,Summer,Beijing,Gymnastics,Event_17,Serena Williams,Female,China,Silver,31
+2020,Summer,London,Badminton,Event_16,Neeraj Chopra,Female,Jamaica,Gold,25
+2016,Summer,Rio,Boxing,Event_12,Usain Bolt,Male,Japan,Gold,31
+2016,Summer,Beijing,Athletics,Event_20,P V Sindhu,Female,Australia,Bronze,31
+2012,Summer,London,Swimming,Event_15,Serena Williams,Male,India,Silver,33
+2020,Summer,Beijing,Boxing,Event_1,Caeleb Dressel,Male,Jamaica,Silver,21
+2016,Summer,London,Swimming,Event_9,Caeleb Dressel,Male,USA,Silver,18
+2020,Summer,Beijing,Badminton,Event_18,Caeleb Dressel,Female,USA,Gold,33
+2020,Summer,Rio,Gymnastics,Event_17,Yuzuru Hanyu,Male,Australia,Silver,27
+2020,Summer,Beijing,Badminton,Event_11,Wayde van Niekerk,Female,China,Gold,21
+2012,Summer,London,Badminton,Event_11,Neeraj Chopra,Male,USA,Gold,28
+2020,Summer,Rio,Boxing,Event_18,Neeraj Chopra,Female,Jamaica,Gold,33
+2020,Summer,London,Swimming,Event_15,Michael Phelps,Female,USA,Bronze,21
+2008,Summer,London,Swimming,Event_4,Sushil Kumar,Male,Japan,Bronze,26
+2020,Summer,Tokyo,Swimming,Event_18,Mirabai Chanu,Female,Australia,Gold,20
+2008,Summer,Beijing,Badminton,Event_16,Mary Kom,Male,India,Bronze,33
+2016,Summer,Tokyo,Wrestling,Event_19,Mary Kom,Female,UK,Bronze,32
+2016,Summer,Beijing,Gymnastics,Event_4,P V Sindhu,Female,Japan,Silver,33
+2012,Summer,Tokyo,Swimming,Event_14,Serena Williams,Male,UK,Bronze,25
+2012,Summer,Rio,Swimming,Event_17,Serena Williams,Male,China,Bronze,27
+2016,Summer,Rio,Badminton,Event_9,P V Sindhu,Male,Australia,Gold,27
+2008,Summer,Rio,Boxing,Event_18,Mary Kom,Male,Jamaica,Gold,35
+2012,Summer,Beijing,Gymnastics,Event_16,Wayde van Niekerk,Female,China,Gold,33
+2016,Summer,London,Boxing,Event_3,Mary Kom,Female,China,Silver,34
+2020,Summer,Rio,Swimming,Event_9,Sushil Kumar,Male,Jamaica,Gold,32
+2020,Summer,Rio,Badminton,Event_4,Mary Kom,Female,China,Gold,31
+2012,Summer,Rio,Boxing,Event_3,Neeraj Chopra,Female,Japan,Gold,27
+2008,Summer,London,Wrestling,Event_6,Michael Phelps,Male,China,Silver,18
+2012,Summer,Beijing,Boxing,Event_7,Serena Williams,Female,China,Bronze,29
+2008,Summer,Tokyo,Badminton,Event_20,P V Sindhu,Female,Jamaica,Bronze,19
+2020,Summer,Beijing,Boxing,Event_11,P V Sindhu,Male,USA,Bronze,29
+2020,Summer,Tokyo,Gymnastics,Event_15,Usain Bolt,Male,Australia,Bronze,24
+2012,Summer,Beijing,Wrestling,Event_3,Wayde van Niekerk,Female,China,Bronze,27
+2008,Summer,Rio,Gymnastics,Event_20,Mary Kom,Male,India,Silver,18
+2016,Summer,Rio,Boxing,Event_16,Mirabai Chanu,Female,Japan,Bronze,34
+2012,Summer,Beijing,Boxing,Event_5,P V Sindhu,Male,Australia,Bronze,35
+2008,Summer,London,Swimming,Event_12,Simone Biles,Female,USA,Silver,35
+2016,Summer,London,Gymnastics,Event_9,Mirabai Chanu,Male,Japan,Bronze,26
+2012,Summer,Rio,Athletics,Event_14,Mary Kom,Female,Jamaica,Gold,30
+2016,Summer,Tokyo,Wrestling,Event_13,P V Sindhu,Female,Japan,Gold,33
+2020,Summer,London,Swimming,Event_15,Serena Williams,Female,Jamaica,Silver,34
+2008,Summer,London,Wrestling,Event_8,Yuzuru Hanyu,Male,USA,Bronze,25
+2012,Summer,Beijing,Wrestling,Event_15,Neeraj Chopra,Male,USA,Gold,29
+2020,Summer,Rio,Wrestling,Event_10,Michael Phelps,Male,Jamaica,Gold,24
+2012,Summer,Rio,Badminton,Event_13,Wayde van Niekerk,Male,USA,Gold,31
+2020,Summer,London,Swimming,Event_8,Sushil Kumar,Male,China,Gold,34
+2008,Summer,Rio,Wrestling,Event_19,Neeraj Chopra,Female,UK,Bronze,22
+2008,Summer,London,Athletics,Event_4,Neeraj Chopra,Female,Jamaica,Silver,22
+2020,Summer,Tokyo,Swimming,Event_18,Caeleb Dressel,Female,USA,Gold,29
+2020,Summer,Tokyo,Badminton,Event_4,Mirabai Chanu,Female,UK,Gold,28
+2008,Summer,London,Gymnastics,Event_20,Simone Biles,Female,India,Bronze,21
+2008,Summer,Beijing,Wrestling,Event_12,Neeraj Chopra,Female,Jamaica,Gold,30
+2016,Summer,Rio,Athletics,Event_16,Michael Phelps,Female,UK,Silver,20
+2016,Summer,Beijing,Badminton,Event_10,Sushil Kumar,Male,Jamaica,Bronze,35
+2008,Summer,Beijing,Badminton,Event_5,Michael Phelps,Female,UK,Silver,27
+2008,Summer,Rio,Wrestling,Event_11,Sushil Kumar,Female,Japan,Gold,19
+2012,Summer,Beijing,Boxing,Event_18,Caeleb Dressel,Male,China,Bronze,27
+2008,Summer,Rio,Swimming,Event_20,Usain Bolt,Female,Australia,Silver,22
+2020,Summer,Rio,Boxing,Event_14,Mirabai Chanu,Male,India,Bronze,33
+2008,Summer,London,Gymnastics,Event_2,Wayde van Niekerk,Male,Jamaica,Silver,35
+2012,Summer,Rio,Gymnastics,Event_19,Simone Biles,Female,USA,Silver,28
+2020,Summer,Beijing,Gymnastics,Event_2,Sushil Kumar,Male,Australia,Bronze,18
+2012,Summer,Rio,Athletics,Event_14,Serena Williams,Male,Japan,Gold,18
+2020,Summer,Rio,Gymnastics,Event_2,Mary Kom,Female,Jamaica,Silver,34
+2016,Summer,Beijing,Wrestling,Event_2,Yuzuru Hanyu,Male,Jamaica,Gold,24
+2008,Summer,Rio,Badminton,Event_1,Michael Phelps,Female,USA,Gold,27
+2012,Summer,Tokyo,Badminton,Event_20,Yuzuru Hanyu,Male,USA,Gold,23
+2016,Summer,Tokyo,Badminton,Event_13,Sushil Kumar,Female,Japan,Silver,23
+2016,Summer,Tokyo,Gymnastics,Event_3,Yuzuru Hanyu,Female,Japan,Silver,29
+2020,Summer,Tokyo,Gymnastics,Event_5,Wayde van Niekerk,Male,China,Gold,22
+2008,Summer,Rio,Gymnastics,Event_11,P V Sindhu,Male,Japan,Gold,21
+2016,Summer,Beijing,Boxing,Event_3,Michael Phelps,Male,India,Bronze,29
+2020,Summer,Tokyo,Athletics,Event_1,Michael Phelps,Female,Jamaica,Silver,33
+2016,Summer,London,Boxing,Event_19,P V Sindhu,Male,Jamaica,Gold,20
+2008,Summer,Beijing,Swimming,Event_20,Serena Williams,Female,UK,Gold,24
+2020,Summer,Beijing,Swimming,Event_18,Sushil Kumar,Female,UK,Gold,35
+2020,Summer,London,Athletics,Event_14,Sushil Kumar,Male,Australia,Bronze,31
+2012,Summer,Tokyo,Badminton,Event_16,Wayde van Niekerk,Female,Australia,Bronze,21
+2008,Summer,Rio,Boxing,Event_2,Sushil Kumar,Male,Australia,Bronze,24
+2020,Summer,Tokyo,Gymnastics,Event_12,Wayde van Niekerk,Female,China,Bronze,19
+2016,Summer,London,Swimming,Event_9,Mary Kom,Female,Jamaica,Gold,19
+2016,Summer,Tokyo,Wrestling,Event_16,Sushil Kumar,Male,Jamaica,Gold,31
+2016,Summer,Rio,Boxing,Event_1,Simone Biles,Male,UK,Silver,20
+2008,Summer,Rio,Swimming,Event_5,Serena Williams,Female,India,Silver,18
+2020,Summer,Beijing,Badminton,Event_1,Yuzuru Hanyu,Female,UK,Bronze,26
+2012,Summer,Beijing,Athletics,Event_19,Simone Biles,Female,UK,Gold,28
+2012,Summer,Tokyo,Athletics,Event_17,Mirabai Chanu,Female,Jamaica,Gold,20
+2008,Summer,Tokyo,Athletics,Event_8,Yuzuru Hanyu,Male,Jamaica,Silver,18
+2008,Summer,Tokyo,Badminton,Event_9,Serena Williams,Female,USA,Silver,24
+2016,Summer,Beijing,Badminton,Event_11,Yuzuru Hanyu,Male,China,Gold,21
+2012,Summer,London,Gymnastics,Event_10,Serena Williams,Female,UK,Silver,34
+2020,Summer,Beijing,Boxing,Event_1,Serena Williams,Female,India,Bronze,22
+2016,Summer,Beijing,Swimming,Event_16,Neeraj Chopra,Male,UK,Silver,23
+2012,Summer,Rio,Boxing,Event_14,Usain Bolt,Male,China,Bronze,21
+2020,Summer,Rio,Badminton,Event_6,Yuzuru Hanyu,Male,Jamaica,Bronze,24
+2016,Summer,Beijing,Wrestling,Event_15,Sushil Kumar,Female,Jamaica,Gold,25
+2016,Summer,Beijing,Badminton,Event_12,Simone Biles,Female,USA,Bronze,32
+2016,Summer,London,Wrestling,Event_4,Wayde van Niekerk,Female,USA,Gold,25
+2012,Summer,Tokyo,Athletics,Event_13,Sushil Kumar,Male,UK,Gold,18
+2008,Summer,Beijing,Badminton,Event_17,Usain Bolt,Male,UK,Bronze,33
+2016,Summer,Tokyo,Gymnastics,Event_6,Wayde van Niekerk,Female,Japan,Silver,31
+2016,Summer,Beijing,Swimming,Event_20,Sushil Kumar,Male,India,Bronze,22
+2012,Summer,Rio,Wrestling,Event_2,Usain Bolt,Male,China,Silver,35
+2012,Summer,London,Athletics,Event_14,Caeleb Dressel,Female,Jamaica,Bronze,21
+2016,Summer,London,Athletics,Event_6,Serena Williams,Male,Jamaica,Gold,19
+2016,Summer,Beijing,Swimming,Event_14,Sushil Kumar,Male,UK,Bronze,20
+2008,Summer,Tokyo,Gymnastics,Event_19,Neeraj Chopra,Female,USA,Bronze,22
+2008,Summer,London,Wrestling,Event_9,Mary Kom,Female,Japan,Silver,19
+2008,Summer,Beijing,Athletics,Event_19,Neeraj Chopra,Female,Australia,Silver,28
+2020,Summer,Beijing,Wrestling,Event_20,Simone Biles,Male,UK,Silver,32
+2016,Summer,London,Badminton,Event_20,Serena Williams,Male,UK,Bronze,24
+2016,Summer,London,Gymnastics,Event_4,Wayde van Niekerk,Male,China,Gold,28
+2012,Summer,Tokyo,Wrestling,Event_2,Mirabai Chanu,Female,Jamaica,Silver,19
+2020,Summer,Rio,Wrestling,Event_20,Serena Williams,Female,USA,Gold,21
+2020,Summer,Tokyo,Wrestling,Event_17,Usain Bolt,Male,Jamaica,Bronze,35
+2020,Summer,Beijing,Boxing,Event_6,Yuzuru Hanyu,Male,UK,Bronze,21
+2020,Summer,Beijing,Athletics,Event_15,Simone Biles,Male,UK,Silver,31
+2020,Summer,Tokyo,Swimming,Event_1,Yuzuru Hanyu,Male,UK,Bronze,24
+2016,Summer,Beijing,Swimming,Event_19,Mirabai Chanu,Male,UK,Silver,32
+2012,Summer,Rio,Wrestling,Event_5,Usain Bolt,Female,India,Silver,25
+2008,Summer,London,Boxing,Event_17,Simone Biles,Female,China,Silver,23
+2008,Summer,Rio,Badminton,Event_17,Mirabai Chanu,Female,Japan,Silver,18
+2008,Summer,Rio,Gymnastics,Event_12,Yuzuru Hanyu,Male,USA,Bronze,23
+2012,Summer,Tokyo,Wrestling,Event_6,Mary Kom,Female,China,Gold,31
+2020,Summer,London,Gymnastics,Event_10,Usain Bolt,Male,India,Silver,28
+2016,Summer,London,Swimming,Event_20,Yuzuru Hanyu,Female,Australia,Gold,32
+2012,Summer,London,Badminton,Event_19,Michael Phelps,Male,India,Gold,35
+2020,Summer,Rio,Boxing,Event_6,Caeleb Dressel,Female,China,Bronze,26
+2020,Summer,Beijing,Gymnastics,Event_7,Usain Bolt,Female,China,Silver,35
+2016,Summer,Beijing,Wrestling,Event_3,P V Sindhu,Male,Australia,Gold,30
+2016,Summer,Beijing,Gymnastics,Event_14,Neeraj Chopra,Male,India,Silver,19
+2020,Summer,Beijing,Gymnastics,Event_9,Wayde van Niekerk,Male,China,Bronze,24
+2012,Summer,London,Gymnastics,Event_2,Neeraj Chopra,Male,USA,Silver,35
+2012,Summer,Rio,Boxing,Event_5,Caeleb Dressel,Female,China,Silver,33
+2020,Summer,London,Athletics,Event_4,Simone Biles,Female,India,Gold,28
+2016,Summer,London,Gymnastics,Event_6,Caeleb Dressel,Female,Australia,Bronze,35
+2012,Summer,London,Gymnastics,Event_6,Sushil Kumar,Female,Jamaica,Bronze,24
+2016,Summer,Rio,Athletics,Event_10,Mirabai Chanu,Female,USA,Bronze,23
+2008,Summer,Rio,Athletics,Event_15,Serena Williams,Female,Australia,Bronze,32
+2008,Summer,Tokyo,Gymnastics,Event_18,Caeleb Dressel,Female,USA,Gold,33
+2012,Summer,Tokyo,Boxing,Event_4,Wayde van Niekerk,Female,Australia,Bronze,34
+2016,Summer,Tokyo,Boxing,Event_12,Mirabai Chanu,Female,Australia,Silver,30
+2012,Summer,Rio,Badminton,Event_14,Usain Bolt,Male,UK,Gold,19
+2020,Summer,Beijing,Athletics,Event_20,Caeleb Dressel,Male,Japan,Silver,23
+2020,Summer,Beijing,Boxing,Event_19,Simone Biles,Female,Japan,Bronze,22
+2020,Summer,Rio,Boxing,Event_1,Mirabai Chanu,Male,Japan,Bronze,24
+2020,Summer,Tokyo,Boxing,Event_1,Mary Kom,Female,UK,Silver,29
+2012,Summer,London,Boxing,Event_17,Sushil Kumar,Male,China,Bronze,28
+2008,Summer,Tokyo,Gymnastics,Event_6,Sushil Kumar,Female,Australia,Gold,34
+2008,Summer,Beijing,Swimming,Event_3,Simone Biles,Female,India,Silver,20
+2012,Summer,Beijing,Athletics,Event_7,Wayde van Niekerk,Male,Japan,Silver,23
+2020,Summer,Beijing,Boxing,Event_6,Wayde van Niekerk,Female,UK,Gold,28
+2016,Summer,Tokyo,Gymnastics,Event_4,Caeleb Dressel,Female,USA,Silver,32
+2012,Summer,London,Wrestling,Event_16,Caeleb Dressel,Male,Australia,Gold,23
+2020,Summer,Beijing,Swimming,Event_16,Michael Phelps,Male,India,Bronze,25
+2020,Summer,Tokyo,Athletics,Event_19,Michael Phelps,Female,Jamaica,Silver,30
+2012,Summer,Beijing,Athletics,Event_14,Michael Phelps,Male,Japan,Silver,35
+2016,Summer,Tokyo,Wrestling,Event_8,Mary Kom,Female,UK,Bronze,30
+2020,Summer,Rio,Boxing,Event_19,Simone Biles,Male,India,Gold,24
+2016,Summer,Tokyo,Badminton,Event_10,Simone Biles,Female,Jamaica,Gold,31
+2020,Summer,Rio,Athletics,Event_8,Caeleb Dressel,Female,Japan,Gold,27
+2008,Summer,Tokyo,Gymnastics,Event_6,Yuzuru Hanyu,Male,UK,Silver,18
+2008,Summer,Beijing,Wrestling,Event_5,Mirabai Chanu,Male,Japan,Gold,27
+2020,Summer,Rio,Swimming,Event_11,Simone Biles,Male,Jamaica,Bronze,24
+2020,Summer,Beijing,Badminton,Event_17,Serena Williams,Female,Australia,Bronze,25
+2016,Summer,Beijing,Wrestling,Event_3,Wayde van Niekerk,Female,Australia,Gold,29
+2020,Summer,Tokyo,Athletics,Event_17,P V Sindhu,Male,Jamaica,Gold,26
+2008,Summer,Tokyo,Athletics,Event_3,Serena Williams,Male,Jamaica,Silver,20
+2008,Summer,Tokyo,Athletics,Event_2,Mirabai Chanu,Male,Australia,Bronze,27
+2020,Summer,Beijing,Boxing,Event_16,Usain Bolt,Male,UK,Silver,32
+2012,Summer,London,Boxing,Event_17,Sushil Kumar,Female,China,Gold,21
+2012,Summer,Beijing,Boxing,Event_16,Mary Kom,Male,Jamaica,Bronze,21
+2008,Summer,Beijing,Swimming,Event_10,Mirabai Chanu,Female,India,Gold,27
+2020,Summer,Beijing,Boxing,Event_13,Serena Williams,Female,China,Bronze,33
+2008,Summer,Beijing,Wrestling,Event_7,Neeraj Chopra,Male,UK,Bronze,28
+2016,Summer,Rio,Swimming,Event_20,Michael Phelps,Male,UK,Bronze,26
+2020,Summer,Rio,Gymnastics,Event_8,Simone Biles,Female,Australia,Bronze,27
+2016,Summer,Tokyo,Athletics,Event_3,Simone Biles,Female,Jamaica,Gold,24
+2016,Summer,Beijing,Boxing,Event_18,Neeraj Chopra,Male,Australia,Bronze,18
+2012,Summer,London,Gymnastics,Event_20,Caeleb Dressel,Female,Australia,Gold,30
+2008,Summer,Tokyo,Athletics,Event_20,Yuzuru Hanyu,Female,Australia,Silver,30
+2008,Summer,Rio,Swimming,Event_17,Neeraj Chopra,Female,USA,Gold,26
+2020,Summer,London,Boxing,Event_1,P V Sindhu,Female,UK,Silver,19
+2016,Summer,Beijing,Gymnastics,Event_9,Sushil Kumar,Male,China,Gold,25
+2012,Summer,London,Wrestling,Event_15,Simone Biles,Female,USA,Silver,29
+2008,Summer,London,Badminton,Event_3,Caeleb Dressel,Female,China,Bronze,24
+2020,Summer,Tokyo,Boxing,Event_12,Sushil Kumar,Female,Jamaica,Gold,33
+2008,Summer,Tokyo,Boxing,Event_9,Mirabai Chanu,Male,China,Gold,20
+2016,Summer,Tokyo,Gymnastics,Event_16,Wayde van Niekerk,Male,Japan,Gold,20
+2016,Summer,London,Boxing,Event_12,Caeleb Dressel,Female,USA,Gold,31
+2008,Summer,London,Wrestling,Event_1,Neeraj Chopra,Male,Jamaica,Bronze,26
+2020,Summer,Tokyo,Boxing,Event_20,Serena Williams,Male,Japan,Gold,20
+2020,Summer,Tokyo,Wrestling,Event_14,Mirabai Chanu,Male,UK,Bronze,25
+2020,Summer,Rio,Gymnastics,Event_2,Wayde van Niekerk,Male,Japan,Bronze,27
+2020,Summer,Rio,Badminton,Event_7,Yuzuru Hanyu,Male,Australia,Bronze,28
+2016,Summer,Tokyo,Boxing,Event_11,Neeraj Chopra,Female,Japan,Gold,24
+2008,Summer,London,Boxing,Event_11,P V Sindhu,Female,USA,Silver,29
+2012,Summer,London,Swimming,Event_19,Michael Phelps,Female,India,Gold,19
+2016,Summer,Rio,Swimming,Event_17,Neeraj Chopra,Female,China,Silver,25
+2008,Summer,Tokyo,Boxing,Event_8,Mary Kom,Female,Jamaica,Silver,28
+2020,Summer,Rio,Badminton,Event_15,Yuzuru Hanyu,Female,Jamaica,Silver,30
+2020,Summer,Beijing,Boxing,Event_20,Usain Bolt,Female,USA,Silver,19
+2020,Summer,Tokyo,Athletics,Event_17,Neeraj Chopra,Male,Jamaica,Bronze,25
+2016,Summer,Beijing,Athletics,Event_12,Mirabai Chanu,Female,Jamaica,Gold,23
+2016,Summer,London,Badminton,Event_15,Wayde van Niekerk,Female,Jamaica,Gold,24
+2012,Summer,Rio,Swimming,Event_5,Caeleb Dressel,Male,Jamaica,Silver,33
+2008,Summer,Rio,Badminton,Event_12,Sushil Kumar,Male,Japan,Gold,23
+2020,Summer,London,Boxing,Event_19,Michael Phelps,Female,Jamaica,Gold,21
+2008,Summer,Tokyo,Boxing,Event_9,Sushil Kumar,Female,India,Silver,27
+2020,Summer,Rio,Wrestling,Event_4,P V Sindhu,Female,China,Gold,26
+2012,Summer,London,Boxing,Event_18,Serena Williams,Female,Japan,Silver,19
+2016,Summer,Rio,Gymnastics,Event_10,Serena Williams,Male,Japan,Bronze,22
+2016,Summer,London,Badminton,Event_9,Simone Biles,Female,India,Silver,25
+2012,Summer,London,Wrestling,Event_13,Serena Williams,Female,Australia,Silver,34
+2016,Summer,Tokyo,Wrestling,Event_12,Usain Bolt,Male,Jamaica,Bronze,22
+2008,Summer,Rio,Gymnastics,Event_18,Serena Williams,Male,Australia,Gold,22
+2020,Summer,Beijing,Swimming,Event_14,Michael Phelps,Female,China,Bronze,27
+2020,Summer,London,Swimming,Event_12,Mirabai Chanu,Male,India,Bronze,21
+2016,Summer,London,Athletics,Event_16,Mary Kom,Female,China,Gold,18
+2012,Summer,Rio,Wrestling,Event_4,Usain Bolt,Female,Jamaica,Gold,35
+2008,Summer,Rio,Badminton,Event_12,Wayde van Niekerk,Female,Australia,Gold,20
+2012,Summer,Rio,Boxing,Event_15,Michael Phelps,Male,USA,Silver,35
+2020,Summer,London,Athletics,Event_15,Wayde van Niekerk,Female,China,Gold,32
+2008,Summer,London,Wrestling,Event_2,Sushil Kumar,Female,Australia,Silver,19
+2020,Summer,Tokyo,Swimming,Event_9,Neeraj Chopra,Male,USA,Bronze,21
+2008,Summer,Rio,Wrestling,Event_20,Neeraj Chopra,Female,Japan,Silver,25
+2008,Summer,Tokyo,Athletics,Event_4,Michael Phelps,Female,India,Bronze,28
+2020,Summer,London,Athletics,Event_4,Neeraj Chopra,Male,Jamaica,Silver,19
+2008,Summer,Tokyo,Swimming,Event_4,Simone Biles,Male,USA,Bronze,34
+2016,Summer,Tokyo,Wrestling,Event_11,Neeraj Chopra,Female,Jamaica,Gold,28
+2020,Summer,London,Boxing,Event_20,Usain Bolt,Female,India,Silver,23
+2020,Summer,Tokyo,Gymnastics,Event_6,Caeleb Dressel,Male,Australia,Bronze,30
+2012,Summer,London,Boxing,Event_5,Wayde van Niekerk,Male,Australia,Gold,20
+2020,Summer,Beijing,Athletics,Event_5,Neeraj Chopra,Female,Jamaica,Silver,35
+2012,Summer,London,Gymnastics,Event_6,Mirabai Chanu,Female,China,Gold,23
+2020,Summer,Rio,Boxing,Event_17,Michael Phelps,Female,UK,Silver,28
+2016,Summer,Beijing,Badminton,Event_12,Mary Kom,Male,Japan,Gold,26
+2012,Summer,Beijing,Boxing,Event_1,Usain Bolt,Female,Australia,Gold,18
+2008,Summer,London,Badminton,Event_16,Wayde van Niekerk,Male,UK,Gold,31
+2020,Summer,Rio,Athletics,Event_16,Neeraj Chopra,Female,USA,Silver,32
+2008,Summer,Rio,Boxing,Event_8,Neeraj Chopra,Female,Japan,Silver,30
+2012,Summer,Rio,Swimming,Event_20,Wayde van Niekerk,Male,USA,Bronze,22
+2008,Summer,Tokyo,Gymnastics,Event_5,Usain Bolt,Male,India,Bronze,29
+2016,Summer,London,Boxing,Event_10,Sushil Kumar,Female,India,Bronze,32
+2020,Summer,Tokyo,Swimming,Event_9,Usain Bolt,Female,India,Gold,26
+2008,Summer,Rio,Athletics,Event_17,Wayde van Niekerk,Female,UK,Bronze,25
+2008,Summer,Rio,Boxing,Event_20,Caeleb Dressel,Female,India,Bronze,21
+2020,Summer,London,Swimming,Event_14,P V Sindhu,Male,Jamaica,Silver,22
+2016,Summer,Tokyo,Wrestling,Event_9,Michael Phelps,Female,India,Bronze,24
+2016,Summer,Beijing,Wrestling,Event_16,P V Sindhu,Female,Australia,Silver,18
+2012,Summer,Tokyo,Wrestling,Event_9,Serena Williams,Female,USA,Gold,29
+2016,Summer,Beijing,Wrestling,Event_11,Mary Kom,Female,China,Gold,28
+2016,Summer,Beijing,Swimming,Event_17,Simone Biles,Female,China,Silver,33
+2020,Summer,Beijing,Wrestling,Event_9,Wayde van Niekerk,Female,Japan,Gold,24
+2016,Summer,Tokyo,Athletics,Event_6,Caeleb Dressel,Female,Japan,Gold,29
+2016,Summer,London,Athletics,Event_19,Serena Williams,Female,Jamaica,Gold,18
+2012,Summer,London,Athletics,Event_10,Simone Biles,Female,China,Gold,25
+2008,Summer,Rio,Gymnastics,Event_19,Michael Phelps,Female,UK,Silver,21
+2016,Summer,Rio,Swimming,Event_17,Simone Biles,Male,India,Bronze,30
+2012,Summer,Tokyo,Boxing,Event_19,Mary Kom,Female,Japan,Silver,26
+2008,Summer,Beijing,Boxing,Event_1,Yuzuru Hanyu,Male,USA,Gold,26
+2008,Summer,Rio,Badminton,Event_1,Michael Phelps,Male,Japan,Silver,25
+2008,Summer,Beijing,Boxing,Event_5,Mirabai Chanu,Male,Japan,Bronze,30
+2008,Summer,Rio,Swimming,Event_3,Mary Kom,Female,Australia,Bronze,33
+2016,Summer,London,Gymnastics,Event_1,Caeleb Dressel,Male,China,Gold,35
+2012,Summer,London,Swimming,Event_15,Yuzuru Hanyu,Male,USA,Gold,31
+2020,Summer,London,Athletics,Event_14,Usain Bolt,Male,Australia,Silver,33
+2008,Summer,Beijing,Athletics,Event_13,Simone Biles,Male,UK,Silver,21
+2008,Summer,Rio,Swimming,Event_15,Neeraj Chopra,Male,India,Bronze,35
+2012,Summer,London,Athletics,Event_13,Sushil Kumar,Female,Japan,Bronze,23
+2012,Summer,London,Athletics,Event_17,P V Sindhu,Female,Japan,Bronze,27
+2020,Summer,Beijing,Boxing,Event_12,Serena Williams,Male,China,Bronze,25
+2016,Summer,Beijing,Gymnastics,Event_10,Usain Bolt,Male,Jamaica,Silver,32
+2016,Summer,Rio,Boxing,Event_6,Mirabai Chanu,Female,Japan,Gold,33
+2020,Summer,Tokyo,Swimming,Event_5,Caeleb Dressel,Male,Japan,Silver,26
+2020,Summer,London,Swimming,Event_16,Usain Bolt,Male,Australia,Gold,20
+2008,Summer,Rio,Wrestling,Event_10,Caeleb Dressel,Female,India,Bronze,28
+2016,Summer,Beijing,Swimming,Event_12,Simone Biles,Female,China,Silver,18
+2008,Summer,London,Gymnastics,Event_19,P V Sindhu,Male,Japan,Gold,22
+2016,Summer,London,Badminton,Event_4,Wayde van Niekerk,Female,Australia,Silver,21
+2020,Summer,Beijing,Badminton,Event_11,Caeleb Dressel,Female,Japan,Silver,33
+2012,Summer,Beijing,Gymnastics,Event_11,Sushil Kumar,Female,Japan,Bronze,28
+2016,Summer,London,Wrestling,Event_15,Michael Phelps,Male,China,Gold,32
+2008,Summer,London,Badminton,Event_7,Sushil Kumar,Female,Australia,Bronze,24
+2020,Summer,Beijing,Badminton,Event_5,Caeleb Dressel,Female,USA,Bronze,34
+2008,Summer,Tokyo,Boxing,Event_19,Sushil Kumar,Female,China,Gold,32
+2012,Summer,Rio,Badminton,Event_20,Usain Bolt,Female,Jamaica,Bronze,19
+2020,Summer,Tokyo,Gymnastics,Event_6,Serena Williams,Female,Jamaica,Bronze,24
+2008,Summer,Beijing,Gymnastics,Event_16,P V Sindhu,Female,India,Bronze,35
+2016,Summer,London,Athletics,Event_8,Yuzuru Hanyu,Female,Australia,Silver,28
+2020,Summer,Beijing,Boxing,Event_14,Yuzuru Hanyu,Male,China,Gold,31
+2008,Summer,Tokyo,Athletics,Event_12,Mirabai Chanu,Female,Japan,Bronze,23
+2016,Summer,London,Swimming,Event_5,Simone Biles,Male,Australia,Bronze,33
+2012,Summer,London,Boxing,Event_6,Mirabai Chanu,Male,India,Silver,19
+2016,Summer,Rio,Wrestling,Event_1,Usain Bolt,Female,India,Bronze,19
+2008,Summer,Rio,Wrestling,Event_8,Wayde van Niekerk,Male,Australia,Silver,29
+2020,Summer,Tokyo,Athletics,Event_12,P V Sindhu,Male,USA,Silver,35
+2020,Summer,Rio,Athletics,Event_15,P V Sindhu,Female,China,Silver,32
+2008,Summer,Rio,Swimming,Event_6,Sushil Kumar,Female,UK,Silver,29
+2016,Summer,Rio,Swimming,Event_17,Mirabai Chanu,Male,Japan,Bronze,26
+2016,Summer,Rio,Swimming,Event_5,Simone Biles,Male,Jamaica,Gold,19
+2020,Summer,Rio,Athletics,Event_20,P V Sindhu,Male,Jamaica,Bronze,26
+2012,Summer,Tokyo,Swimming,Event_7,Simone Biles,Male,Australia,Bronze,25
+2016,Summer,London,Gymnastics,Event_8,Caeleb Dressel,Male,China,Gold,32
+2016,Summer,Tokyo,Boxing,Event_11,Mirabai Chanu,Female,Jamaica,Gold,23
+2008,Summer,Tokyo,Gymnastics,Event_16,Sushil Kumar,Female,USA,Silver,35
+2012,Summer,Beijing,Badminton,Event_18,Serena Williams,Female,UK,Gold,35
+2020,Summer,Rio,Badminton,Event_11,Usain Bolt,Male,Jamaica,Gold,25
+2012,Summer,Rio,Swimming,Event_12,Yuzuru Hanyu,Male,Australia,Gold,25
+2020,Summer,Tokyo,Badminton,Event_13,Caeleb Dressel,Female,UK,Gold,18
+2020,Summer,Beijing,Swimming,Event_12,Neeraj Chopra,Female,Japan,Gold,30
+2016,Summer,London,Wrestling,Event_13,P V Sindhu,Male,Australia,Gold,35
+2020,Summer,Tokyo,Boxing,Event_12,Serena Williams,Female,Japan,Gold,24
+2016,Summer,Rio,Wrestling,Event_6,Michael Phelps,Female,Japan,Silver,27
+2012,Summer,Rio,Boxing,Event_11,Michael Phelps,Female,China,Silver,23
+2016,Summer,Tokyo,Gymnastics,Event_12,Simone Biles,Female,Japan,Gold,25
+2012,Summer,Tokyo,Wrestling,Event_5,Michael Phelps,Male,Jamaica,Gold,35
+2016,Summer,Rio,Boxing,Event_5,P V Sindhu,Female,India,Bronze,31
+2020,Summer,Tokyo,Wrestling,Event_9,Caeleb Dressel,Female,Japan,Bronze,18
+2020,Summer,Tokyo,Badminton,Event_16,Mirabai Chanu,Female,USA,Silver,26
+2012,Summer,London,Badminton,Event_4,Neeraj Chopra,Female,USA,Silver,35
+2016,Summer,London,Wrestling,Event_7,Neeraj Chopra,Female,Jamaica,Silver,19
+2008,Summer,Tokyo,Boxing,Event_1,Mary Kom,Female,India,Silver,22
+2020,Summer,Rio,Athletics,Event_3,Neeraj Chopra,Female,Jamaica,Bronze,32
+2020,Summer,London,Boxing,Event_15,Sushil Kumar,Female,USA,Silver,21
+2020,Summer,Rio,Swimming,Event_12,Mary Kom,Female,Australia,Gold,34
+2012,Summer,Rio,Boxing,Event_14,Mirabai Chanu,Female,Japan,Gold,30
+2016,Summer,London,Wrestling,Event_4,Simone Biles,Male,USA,Bronze,19
+2008,Summer,Tokyo,Gymnastics,Event_18,P V Sindhu,Male,UK,Bronze,31
+2008,Summer,London,Swimming,Event_11,Simone Biles,Male,Jamaica,Bronze,28
+2012,Summer,Rio,Athletics,Event_14,Neeraj Chopra,Male,Australia,Gold,24
+2020,Summer,Rio,Athletics,Event_20,Usain Bolt,Female,UK,Gold,33
+2016,Summer,Rio,Athletics,Event_5,Michael Phelps,Male,India,Silver,29
+2008,Summer,Tokyo,Badminton,Event_4,Michael Phelps,Male,UK,Gold,32
+2008,Summer,Tokyo,Badminton,Event_1,Michael Phelps,Male,Australia,Silver,32
+2012,Summer,Tokyo,Gymnastics,Event_11,Mirabai Chanu,Male,USA,Bronze,21
+2020,Summer,Beijing,Gymnastics,Event_13,Michael Phelps,Male,USA,Gold,26
+2016,Summer,Beijing,Athletics,Event_16,Yuzuru Hanyu,Female,Australia,Gold,28
+2016,Summer,Beijing,Athletics,Event_8,Usain Bolt,Female,Australia,Bronze,24
+2008,Summer,Rio,Gymnastics,Event_7,Mirabai Chanu,Male,Japan,Bronze,22
+2020,Summer,Beijing,Badminton,Event_3,Wayde van Niekerk,Female,USA,Gold,22
+2016,Summer,Beijing,Gymnastics,Event_4,Yuzuru Hanyu,Male,Australia,Bronze,25
+2012,Summer,Tokyo,Athletics,Event_4,Sushil Kumar,Female,China,Bronze,32
+2012,Summer,London,Athletics,Event_20,Usain Bolt,Female,Japan,Silver,27
+2012,Summer,Tokyo,Wrestling,Event_16,P V Sindhu,Female,India,Silver,32
+2016,Summer,Beijing,Gymnastics,Event_7,Wayde van Niekerk,Female,Jamaica,Gold,30
+2012,Summer,Rio,Badminton,Event_7,Yuzuru Hanyu,Female,Australia,Silver,34
+2020,Summer,Rio,Boxing,Event_4,Mirabai Chanu,Female,USA,Silver,34
+2020,Summer,Rio,Athletics,Event_13,Michael Phelps,Male,India,Silver,34
+2020,Summer,Beijing,Swimming,Event_7,Usain Bolt,Male,India,Bronze,20
+2012,Summer,London,Gymnastics,Event_12,Caeleb Dressel,Female,Jamaica,Bronze,32
+2008,Summer,Rio,Swimming,Event_6,Simone Biles,Female,Japan,Gold,24
+2008,Summer,Tokyo,Boxing,Event_10,Sushil Kumar,Female,Australia,Silver,27
+2012,Summer,Tokyo,Gymnastics,Event_8,Michael Phelps,Female,India,Gold,22
+2020,Summer,London,Badminton,Event_18,Mirabai Chanu,Male,Australia,Bronze,31
+2016,Summer,London,Athletics,Event_17,Wayde van Niekerk,Female,UK,Bronze,23
+2008,Summer,Beijing,Gymnastics,Event_10,Wayde van Niekerk,Male,India,Bronze,20
+2008,Summer,Rio,Boxing,Event_7,P V Sindhu,Female,India,Bronze,22
